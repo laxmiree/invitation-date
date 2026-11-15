@@ -1,1729 +1,1733 @@
-﻿1
-00:00:00,000 --> 00:00:02,013
+1
+00:00:00,000 --> 00:00:17,707
+Want to see your own name in the subtitles? You can do that too, with a neat little effect to make it extra immersive! Check the links in the YouTube comments and try it out for yourself!
+
+2
+00:00:17,707 --> 00:00:19,721
 [Birthday Preparation]
 (note: the prologue is voiceless, but the date+birthday event is still voiced!)
 
-2
-00:00:02,013 --> 00:00:05,721
+3
+00:00:19,721 --> 00:00:23,428
 Little Kid A: [Little Kid A] MC-jiejie, please have some cookies, they’re really yummy!
 
-3
-00:00:05,721 --> 00:00:08,566
+4
+00:00:23,428 --> 00:00:26,273
 Little Kid B: [Little Kid B] Don’t listen to him, MC-jiejie… Here, have some filled chocolates. They’re a thousand times yummier than his~
 
-4
-00:00:08,566 --> 00:00:10,196
+5
+00:00:26,273 --> 00:00:27,903
 Little Kid C: [Little Kid C] I’ve got something tasty too. Here, it’s for you.
 
-5
-00:00:10,196 --> 00:00:13,648
+6
+00:00:27,903 --> 00:00:31,355
 In the orphanage, the children crowd around me with such enthusiasm that I end up sitting helplessly on the lawn, accepting a cookie from one side and a chocolate from the other.
 
-6
-00:00:13,648 --> 00:00:15,821
+7
+00:00:31,355 --> 00:00:33,529
 MC: Thank you, everyone! I’ll make sure to eat every last one…
 
-7
-00:00:15,821 --> 00:00:19,241
+8
+00:00:33,529 --> 00:00:36,949
 Before I even finish speaking, a ringtone abruptly rings out. I pick up my phone to see Lucien’s call invitation strikingly pop up on the screen.
 
-8
-00:00:19,241 --> 00:00:22,981
+9
+00:00:36,949 --> 00:00:40,688
 The little girl leaning on my shoulder keenly recognizes the profile picture on the screen and claps her hands in excitement, exclaiming—
 
-9
-00:00:22,981 --> 00:00:24,451
+10
+00:00:40,688 --> 00:00:42,159
 Little Girl: [Little Girl] It’s Lucien-gege!
 
-10
-00:00:24,451 --> 00:00:26,433
+11
+00:00:42,159 --> 00:00:44,140
 Children: [Children] Lucien-gege?! Is he coming to play with us too?
 
-11
-00:00:26,433 --> 00:00:29,309
+12
+00:00:44,140 --> 00:00:47,017
 Looking at the children around me, their heads tilted up and their eyes sparkling with stars, I can’t help but laugh as I rise to my feet, gently placing my index finger to my lips.
 
-12
-00:00:29,309 --> 00:00:31,803
+13
+00:00:47,017 --> 00:00:49,510
 MC: Shh… I’m going to answer Lucien-gege’s call now. Don’t follow me for now, okay?
 
-13
-00:00:31,803 --> 00:00:34,487
+14
+00:00:49,510 --> 00:00:52,195
 MC: Otherwise, if he sees us all gathered together, he’ll immediately guess that we’re preparing a birthday surprise for him.
 
-14
-00:00:34,487 --> 00:00:36,693
+15
+00:00:52,195 --> 00:00:54,400
 Children: [Children] Right, right, right. Lucien-gege is the smartest, we can’t let him find out!
 
-15
-00:00:36,693 --> 00:00:39,282
+16
+00:00:54,400 --> 00:00:56,989
 The children all cover their mouths with their small hands and watch me walk to a tree in the distance.
 
-16
-00:00:39,282 --> 00:00:41,615
+17
+00:00:56,989 --> 00:00:59,323
 When I pick up my phone again, I discover that the call invitation from just now has already expired.
 
-17
-00:00:41,615 --> 00:00:44,556
+18
+00:00:59,323 --> 00:01:02,263
 A little fox sticker has appeared in the chatbox. It’s lying on the ground, wagging its tail, with a speech bubble popping up next to its head —
 
-18
-00:00:44,556 --> 00:00:46,026
+19
+00:01:02,263 --> 00:01:03,734
 “Are you busy?”
 
-19
-00:00:46,026 --> 00:00:49,734
+20
+00:01:03,734 --> 00:01:07,441
 I let out a soft puff of laughter and hurriedly called him back.
 
-20
-00:00:49,734 --> 00:00:52,163
+21
+00:01:07,441 --> 00:01:09,870
 MC: I really was busy a moment ago, but I’m free now.
 
-21
-00:00:52,163 --> 00:00:54,209
+22
+00:01:09,870 --> 00:01:11,916
 Lucien: What were you busy with? Is there anything I can help with?
 
-22
-00:00:54,209 --> 00:00:56,126
+23
+00:01:11,916 --> 00:01:13,834
 MC: Hmm… no! Everything’s going smoothly right now~
 
-23
-00:00:56,126 --> 00:00:58,971
+24
+00:01:13,834 --> 00:01:16,678
 Perhaps my momentary hesitation exposes something; he immediately lets out an involuntary laugh, his clear voice sounding once more.
 
-24
-00:00:58,971 --> 00:01:00,473
+25
+00:01:16,678 --> 00:01:18,181
 Lucien: Okay, I understand.
 
-25
-00:01:00,473 --> 00:01:02,743
+26
+00:01:18,181 --> 00:01:20,450
 Lucien: As the soon-to-be birthday boy, I will quietly await all of Miss Producer’s arrangements.
 
-26
-00:01:02,743 --> 00:01:04,021
+27
+00:01:20,450 --> 00:01:21,729
 MC: ….!
 
-27
-00:01:04,021 --> 00:01:06,003
+28
+00:01:21,729 --> 00:01:23,710
 MC: Wait, I didn’t say I was busy with your birthday.
 
-28
-00:01:06,003 --> 00:01:07,793
+29
+00:01:23,710 --> 00:01:25,500
 Lucien: Mm, MC didn’t say that.
 
-29
-00:01:07,793 --> 00:01:10,510
+30
+00:01:25,500 --> 00:01:28,217
 Lucien: But your tone of voice, your laughter, and your busy figure these past few days have always been quietly telling me—
 
-30
-00:01:10,510 --> 00:01:12,651
+31
+00:01:28,217 --> 00:01:30,359
 Lucien: Late autumn has arrived, and the joy you’ve prepared for me is also close at hand.
 
-31
-00:01:12,651 --> 00:01:14,697
+32
+00:01:30,359 --> 00:01:32,404
 My heart softens, and my voice unconsciously follows his, gentling considerably.
 
-32
-00:01:14,697 --> 00:01:17,254
+33
+00:01:32,404 --> 00:01:34,961
 MC: As expected, it’s hard to keep anything from you, but you’ll never guess what surprise I’ve prepared for you this year~
 
-33
-00:01:17,254 --> 00:01:19,683
+34
+00:01:34,961 --> 00:01:37,390
 Lucien: Of course, because our Miss Producer always has the ability to take people by surprise.
 
-34
-00:01:19,683 --> 00:01:21,984
+35
+00:01:37,390 --> 00:01:39,692
 Lucien: So it’s not just this year. In fact, I’ve found it difficult to guess in every past year.
 
-35
-00:01:21,984 --> 00:01:24,797
+36
+00:01:39,692 --> 00:01:42,505
 Lucien: Even though many of the details have long been readily apparent, I still feel surprised and happy about everything you do.
 
-36
-00:01:24,797 --> 00:01:27,674
+37
+00:01:42,505 --> 00:01:45,381
 MC: Then please continue to look forward to it, Professor Xu.
 
-37
-00:01:27,674 --> 00:01:30,646
+38
+00:01:45,381 --> 00:01:48,354
 As I say this, I turn around. Seeing the children sitting on the lawn with their gazes still fixed on me, I smile and give them a small wave.
 
-38
-00:01:30,646 --> 00:01:32,788
+39
+00:01:48,354 --> 00:01:50,495
 MC: This year… I will continue to make you feel happiness too.
 
-39
-00:01:41,066 --> 00:01:45,221
+40
+00:01:58,774 --> 00:02:02,929
 Dawn is just breaking. The still-lit street lamps stretch out halos of light, and the world seems steeped in a hazy gray-blue.
 
-40
-00:01:45,221 --> 00:01:50,463
+41
+00:02:02,929 --> 00:02:08,171
 A rich rice aroma seeps through the gap in the pot lid. Amidst the steady bubbling sounds, a faint chime of the elevator arriving comes from the hallway. I quickly turn off the stove and hurry toward the entryway.
 
-41
-00:01:50,463 --> 00:01:54,395
+42
+00:02:08,171 --> 00:02:12,102
 Sure enough, before long, the front door is gently pushed open.
 
-42
-00:01:54,395 --> 00:01:58,933
+43
+00:02:12,102 --> 00:02:16,641
 As our eyes meet, Lucien seems to freeze for a moment. Then his brows and eyes curve in understanding, and he watches as I step forward and wrap him in an embrace.
 
-43
-00:01:58,933 --> 00:02:01,395
+44
+00:02:16,641 --> 00:02:19,102
 MC: Good morning, Professor Xu.
 
-44
-00:02:01,395 --> 00:02:06,892
+45
+00:02:19,102 --> 00:02:24,600
 The arms encircling me naturally tighten, and with immense tenderness, he envelops me in his windbreaker, keeping the chill clinging to him from settling onto me too much.
 
-45
-00:02:06,892 --> 00:02:10,824
+46
+00:02:24,600 --> 00:02:28,531
 After a moment’s delay, his low voice comes through.
 
-46
-00:02:10,824 --> 00:02:13,796
+47
+00:02:28,531 --> 00:02:31,504
 Lucien: Good morning, MC.
 
-47
-00:02:13,796 --> 00:02:21,403
+48
+00:02:31,504 --> 00:02:39,111
 Lucien: If I had known you would be waiting for me here, I should have “warmed myself up” a bit first.
 
-48
-00:02:21,403 --> 00:02:24,887
+49
+00:02:39,111 --> 00:02:42,595
 MC: That won’t do, I always want to see you a little earlier.
 
-49
-00:02:24,887 --> 00:02:27,157
+50
+00:02:42,595 --> 00:02:44,864
 I lift my head from his embrace.
 
-50
-00:02:27,157 --> 00:02:30,992
+51
+00:02:44,864 --> 00:02:48,700
 MC: And while waiting for you, I’ve already prepared a loving breakfast for Mr. Birthday Star~
 
-51
-00:02:30,992 --> 00:02:35,851
+52
+00:02:48,700 --> 00:02:53,558
 MC: On a special day like this, waking up a little earlier, preparing and waiting seems to make the whole day feel longer than usual.
 
-52
-00:02:35,851 --> 00:02:38,727
+53
+00:02:53,558 --> 00:02:56,435
 Lucien: Did you wake up very early?
 
-53
-00:02:38,727 --> 00:02:43,713
+54
+00:02:56,435 --> 00:03:01,421
 MC: Probably not long after you left. Don’t worry, you didn’t wake me. I just wanted today to begin earlier.
 
-54
-00:02:43,713 --> 00:02:46,782
+55
+00:03:01,421 --> 00:03:04,489
 Before I knew it, I had already started to get used to the days of celebrating Lucien’s birthday in Loveland City.
 
-55
-00:02:46,782 --> 00:02:52,919
+56
+00:03:04,489 --> 00:03:10,626
 On this day, he also seems to have begun getting used to first going somewhere at dawn to meet someone important, and I have some guesses about where that might be.
 
-56
-00:02:52,919 --> 00:02:56,786
+57
+00:03:10,626 --> 00:03:14,494
 It’s just that since he doesn’t mention it, I don’t ask either.
 
-57
-00:02:56,786 --> 00:03:00,910
+58
+00:03:14,494 --> 00:03:18,617
 This day belongs to him, and I never want to force him to fulfill any of my hopes.
 
-58
-00:03:00,910 --> 00:03:05,065
+59
+00:03:18,617 --> 00:03:22,772
 Lucien doesn’t speak for a moment; his gaze falls heavily upon me like a lingering kiss.
 
-59
-00:03:05,065 --> 00:03:09,539
+60
+00:03:22,772 --> 00:03:27,247
 After a moment, he rests his chin against the top of my head and nuzzles gently.
 
-60
-00:03:09,539 --> 00:03:18,873
+61
+00:03:27,247 --> 00:03:36,580
 Lucien: I think I felt it too. I felt it from the very moment I saw you just now.
 
-61
-00:03:18,873 --> 00:03:28,174
+62
+00:03:36,580 --> 00:03:45,881
 Lucien: Today indeed has been a long one. Yet even now, I still want time to slow down just a little more.
 
-62
-00:03:28,174 --> 00:03:33,767
+63
+00:03:45,881 --> 00:03:51,475
 MC: I’ll go along with whatever you want, Mr. Birthday Star~
 
-63
-00:03:33,767 --> 00:03:39,201
+64
+00:03:51,475 --> 00:03:56,909
 After I say that, I pull him to sit at the dining table, bring out the breakfast made with love that I’ve been keeping warm in the pot one dish at a time, and even arrange the plates with a touch of ceremony.
 
-64
-00:03:39,201 --> 00:03:43,644
+65
+00:03:56,909 --> 00:04:01,351
 The soft, glutinous longevity peach buns emanate aromas of custard and red bean paste, sitting upright atop the slightly crooked carrot-carved characters spelling ‘Happy Birthday’.
 
-65
-00:03:43,644 --> 00:03:50,196
+66
+00:04:01,351 --> 00:04:07,904
 Lucien: Can I eat all of these too?
 
-66
-00:03:50,196 --> 00:03:54,767
+67
+00:04:07,904 --> 00:04:12,474
 Seeing his gaze linger on those few ‘masterpieces’ I made on a whim, I quickly pick up a longevity peach bun and set it into his bowl.
 
-67
-00:03:54,767 --> 00:03:57,995
+68
+00:04:12,474 --> 00:04:15,703
 MC: Those are just for decoration.
 
-68
-00:03:57,995 --> 00:04:02,342
+69
+00:04:15,703 --> 00:04:20,050
 Lucien: But they also blessings meant for me.
 
-69
-00:04:02,342 --> 00:04:06,913
+70
+00:04:20,050 --> 00:04:24,620
 He says it with such earnestness as though it were the most natural thing in the world. Left completely unable to do anything about him, I can only surrender.
 
-70
-00:04:06,913 --> 00:04:10,844
+71
+00:04:24,620 --> 00:04:28,552
 MC: Okay, I’ve already said that I’ll go along with whatever you want!
 
-71
-00:04:10,844 --> 00:04:13,242
+72
+00:04:28,552 --> 00:04:30,949
 Smiling, I open my arms toward him.
 
-72
-00:04:13,242 --> 00:04:14,712
+73
+00:04:30,949 --> 00:04:32,419
 MC: Happy birthday—
 
-73
-00:04:14,712 --> 00:04:17,684
+74
+00:04:32,419 --> 00:04:35,392
 MC: Let’s start a day of surprises that belongs only to Lucien—
 
-74
-00:04:17,684 --> 00:04:22,191
+75
+00:04:35,392 --> 00:04:39,899
 The steam from the breakfast haze in front of him, making it seem as if he is slowly returning from a very distant place to my side, and he gently lifts a smile.
 
-75
-00:04:22,191 --> 00:04:27,785
+76
+00:04:39,899 --> 00:04:45,492
 Lucien: I’m looking forward to it.
 
-76
-00:04:33,410 --> 00:04:37,406
+77
+00:04:51,118 --> 00:04:55,113
 When the car stops at the orphanage’s main gate, a few children who can hardly contain themselves come scrambling out and surround Lucien.
 
-77
-00:04:37,406 --> 00:04:40,442
-Boy A: We’ve been waiting for you for so long, big birthday star! Waaah…
-
 78
-00:04:40,442 --> 00:04:44,214
-Girl A: You’re so silly! That’s part of the later segment, don’t ruin the surprise!
+00:04:55,113 --> 00:04:58,149
+Boy A: [Boy A] We’ve been waiting for you for so long, big birthday star! Waaah…
 
 79
-00:04:44,214 --> 00:04:47,602
-Girl A: Come on, gege and jiejie, everyone is inside~
+00:04:58,149 --> 00:05:01,921
+Girl A: [Girl A] You’re so silly! That’s part of the later segment, don’t ruin the surprise!
 
 80
-00:04:47,602 --> 00:04:51,022
-Without waiting for a reply, the girl grabs our hands and tugs us forward.
+00:05:01,921 --> 00:05:05,309
+Girl A: [Girl A] Come on, gege and jiejie, everyone is inside~
 
 81
-00:04:51,022 --> 00:04:55,145
-Childish cheers crash over us without warning like waves, and Lucien seems unusually a bit slow to respond.
+00:05:05,309 --> 00:05:08,729
+Without waiting for a reply, the girl grabs our hands and tugs us forward.
 
 82
-00:04:55,145 --> 00:05:00,579
-He subconsciously bends forward a little, letting the children crowd around him, and amid their noisy chatter and cheerful laughter, he plays along with this “highest-level” welcoming ceremony.
+00:05:08,729 --> 00:05:12,852
+Childish cheers crash over us without warning like waves, and Lucien seems unusually a bit slow to respond.
 
 83
-00:05:00,579 --> 00:05:05,565
-I seldom see Lucien with such an uncharacteristically overwhelmed look, and I can’t help but laugh, prompting him to turn back and look at me.
+00:05:12,852 --> 00:05:18,286
+He subconsciously bends forward a little, letting the children crowd around him, and amid their noisy chatter and cheerful laughter, he plays along with this “highest-level” welcoming ceremony.
 
 84
-00:05:05,565 --> 00:05:10,551
-But I simply smile, then join in the liveliness, crowding together with them.
+00:05:18,286 --> 00:05:23,272
+I seldom see Lucien with such an uncharacteristically overwhelmed look, and I can’t help but laugh, prompting him to turn back and look at me.
 
 85
-00:05:10,551 --> 00:05:16,464
-Lucien: ……
+00:05:23,272 --> 00:05:28,258
+But I simply smile, then join in the liveliness, crowding together with them.
 
 86
-00:05:16,464 --> 00:05:19,916
-MC: Let’s walk a bit faster~
+00:05:28,258 --> 00:05:34,172
+Lucien: ……
 
 87
-00:05:19,916 --> 00:05:21,706
-Children: Yay—!
+00:05:34,172 --> 00:05:37,624
+MC: Let’s walk a bit faster~
 
 88
-00:05:21,706 --> 00:05:25,062
-Like Lucien, they are all children of the world.
+00:05:37,624 --> 00:05:39,414
+Children: Yay—!
 
 89
-00:05:25,062 --> 00:05:30,048
-And I, just like them, only want to hold up every blessing and all that is wonderful, and offer it before him.
+00:05:39,414 --> 00:05:42,770
+Like Lucien, they are all children of the world.
 
 90
-00:05:31,263 --> 00:05:36,537
-After leading us to the decorated small garden, the children then mysteriously left under the orphanage director’s guidance.
+00:05:42,770 --> 00:05:47,756
+And I, just like them, only want to hold up every blessing and all that is wonderful, and offer it before him.
 
 91
-00:05:36,537 --> 00:05:43,153
-The afternoon sunlight is soft, spilling at a slant into the small garden of this courtyard.
+00:05:48,970 --> 00:05:54,244
+After leading us to the decorated small garden, the children then mysteriously left under the orphanage director’s guidance.
 
 92
-00:05:43,153 --> 00:05:49,738
-Lucien’s gaze moves from the meticulously arranged tables and chairs to the colorful balloon decorations, then lands on the piled-up gift boxes.
+00:05:54,244 --> 00:06:00,861
+The afternoon sunlight is soft, spilling at a slant into the small garden of this courtyard.
 
 93
-00:05:49,738 --> 00:05:54,372
-I follow his sight, see the corners of his lips lift lightly, and I smile as well.
+00:06:00,861 --> 00:06:07,445
+Lucien’s gaze moves from the meticulously arranged tables and chairs to the colorful balloon decorations, then lands on the piled-up gift boxes.
 
 94
-00:05:54,372 --> 00:05:57,728
-MC: It’s rare to see our Great Professor Xu looking this surprised.
+00:06:07,445 --> 00:06:12,080
+I follow his sight, see the corners of his lips lift lightly, and I smile as well.
 
 95
-00:05:57,728 --> 00:06:05,623
-Lucien: I also thought that I’d already grown accustomed to accepting the miracles you bring me.
+00:06:12,080 --> 00:06:15,436
+MC: It’s rare to see our Great Professor Xu looking this surprised.
 
 96
-00:06:05,623 --> 00:06:10,194
-Lucien: But indeed, you always find a way.
+00:06:15,436 --> 00:06:23,331
+Lucien: I also thought that I’d already grown accustomed to accepting the miracles you bring me.
 
 97
-00:06:10,194 --> 00:06:14,956
-MC: Hehe, then I will assuredly take that as a compliment meaning ‘you like it a lot’~
+00:06:23,331 --> 00:06:27,901
+Lucien: But indeed, you always find a way.
 
 98
-00:06:14,956 --> 00:06:21,509
-Lucien: How could I possibly not like it?
+00:06:27,901 --> 00:06:32,664
+MC: Hehe, then I will assuredly take that as a compliment meaning ‘you like it a lot’~
 
 99
-00:06:21,509 --> 00:06:27,230
-As the breeze brushes past, the light strands entwined among the branches and leaves sway. Dappled light refracts into Lucien’s eyes, making me unable to stop myself from indulgently sinking into them.
+00:06:32,664 --> 00:06:39,216
+Lucien: How could I possibly not like it?
 
 100
-00:06:27,230 --> 00:06:31,098
-MC: Even though it’s a surprise, it was still something I took the liberty of deciding on my own.
+00:06:39,216 --> 00:06:44,937
+As the breeze brushes past, the light strands entwined among the branches and leaves sway. Dappled light refracts into Lucien’s eyes, making me unable to stop myself from indulgently sinking into them.
 
 101
-00:06:31,098 --> 00:06:35,476
-MC: When I came to visit the children before, they invited me to watch the play they were rehearsing for today, but I accidentally let it slip.
+00:06:44,937 --> 00:06:48,805
+MC: Even though it’s a surprise, it was still something I took the liberty of deciding on my own.
 
 102
-00:06:35,476 --> 00:06:39,120
-MC: Later they insisted on celebrating together for you. I feel that everyone’s goodwill should not be let down, and besides…
+00:06:48,805 --> 00:06:53,184
+MC: When I came to visit the children before, they invited me to watch the play they were rehearsing for today, but I accidentally let it slip.
 
 103
-00:06:39,120 --> 00:06:43,467
-MC: I also wanted to make your birthday a little livelier.
+00:06:53,184 --> 00:06:56,828
+MC: Later they insisted on celebrating together for you. I feel that everyone’s goodwill should not be let down, and besides…
 
 104
-00:06:43,467 --> 00:06:46,823
-I reach out and hook my finger with his.
+00:06:56,828 --> 00:07:01,175
+MC: I also wanted to make your birthday a little livelier.
 
 105
-00:06:46,823 --> 00:06:49,316
-MC: Would this bother you?
+00:07:01,175 --> 00:07:04,531
+I reach out and hook my finger with his.
 
 106
-00:06:49,316 --> 00:06:54,494
-Lucien doesn’t speak for a moment, his fingertips’ pads stroking my knuckles. Then he takes my hand and guides it to rest against his chest.
+00:07:04,531 --> 00:07:07,024
+MC: Would this bother you?
 
 107
-00:06:54,494 --> 00:07:01,942
-Lucien: MC, I smell the fragrance of flowers, the scent of fresh grass, and even the aroma of clouds…
+00:07:07,024 --> 00:07:12,202
+Lucien doesn’t speak for a moment, his fingertips’ pads stroking my knuckles. Then he takes my hand and guides it to rest against his chest.
 
 108
-00:07:01,942 --> 00:07:15,846
-Lucien: I hear the children’s voices, and your voice. These sounds of laughter, these heartbeats… are unexpectedly rich.
+00:07:12,202 --> 00:07:19,649
+Lucien: MC, I smell the fragrance of flowers, the scent of fresh grass, and even the aroma of clouds…
 
 109
-00:07:15,846 --> 00:07:21,311
-Lucien: It makes me momentarily not know what to do.
+00:07:19,649 --> 00:07:33,553
+Lucien: I hear the children’s voices, and your voice. These sounds of laughter, these heartbeats… are unexpectedly rich.
 
 110
-00:07:21,311 --> 00:07:28,279
-Lucien: Would this count as a bother?
+00:07:33,553 --> 00:07:39,019
+Lucien: It makes me momentarily not know what to do.
 
 111
-00:07:28,279 --> 00:07:31,987
-This does not seem to be a question, nor exactly an answer.
+00:07:39,019 --> 00:07:45,987
+Lucien: Would this count as a bother?
 
 112
-00:07:31,987 --> 00:07:35,758
-But looking into those eyes brimming with a smile, all I want to do is kiss him.
+00:07:45,987 --> 00:07:49,694
+This does not seem to be a question, nor exactly an answer.
 
 113
-00:07:35,758 --> 00:07:39,115
-So I rise onto my toes, tilt my face up, and lean in.
+00:07:49,694 --> 00:07:53,466
+But looking into those eyes brimming with a smile, all I want to do is kiss him.
 
 114
-00:07:39,115 --> 00:07:42,439
-??: MC-jiejie! Lucien-gege! Ah….
+00:07:53,466 --> 00:07:56,822
+So I rise onto my toes, tilt my face up, and lean in.
 
 115
-00:07:42,439 --> 00:07:49,311
-I instinctively stop and, turning my head, see the boy who had been running at the front come to a halt with an innocent look on his face. In one motion, he tosses the prop planet in his hand away and covers his eyes.
+00:07:56,822 --> 00:08:00,146
+??: MC-jiejie! Lucien-gege! Ah….
 
 116
-00:07:49,311 --> 00:07:52,123
-MC: Pffft…
+00:08:00,146 --> 00:08:07,018
+I instinctively stop and, turning my head, see the boy who had been running at the front come to a halt with an innocent look on his face. In one motion, he tosses the prop planet in his hand away and covers his eyes.
 
 117
-00:07:52,571 --> 00:07:59,027
-Before I can speak, Lucien already turns me towards him, lifts his hand to cradle my face, and a series of delicate kisses rains down.
+00:08:07,018 --> 00:08:09,831
+MC: Pffft…
 
 118
-00:07:59,027 --> 00:08:07,881
-Lucien: As you said, we simply can’t disappoint the children’s ‘goodwill’.
+00:08:10,278 --> 00:08:16,735
+Before I can speak, Lucien already turns me towards him, lifts his hand to cradle my face, and a series of delicate kisses rains down.
 
 119
-00:08:07,881 --> 00:08:12,931
-His murmured voice brushes close to my lips, lingering with tender reluctance to part.
+00:08:16,735 --> 00:08:25,589
+Lucien: As you said, we simply can’t disappoint the children’s ‘goodwill’.
 
 120
-00:08:14,082 --> 00:08:19,196
-Soon, the children return to this world’s ‘stage’, dressed in their performance outfits and carrying a variety of handmade props.
+00:08:25,589 --> 00:08:30,639
+His murmured voice brushes close to my lips, lingering with tender reluctance to part.
 
 121
-00:08:19,196 --> 00:08:25,525
-As they flock around Lucien with their rhythmic, tiny footsteps, I move to the outer perimeter as rehearsed and press play on the music.
+00:08:31,789 --> 00:08:36,904
+Soon, the children return to this world’s ‘stage’, dressed in their performance outfits and carrying a variety of handmade props.
 
 122
-00:08:25,525 --> 00:08:32,429
-After everyone decided to prepare a surprise celebration for Lucien, they then adapted the Little Prince play they had originally planned to perform into a story of the Little Prince celebrating his birthday.
+00:08:36,904 --> 00:08:43,232
+As they flock around Lucien with their rhythmic, tiny footsteps, I move to the outer perimeter as rehearsed and press play on the music.
 
 123
-00:08:32,429 --> 00:08:35,465
-And naturally, I also took part in preparing this surprise.
+00:08:43,232 --> 00:08:50,136
+After everyone decided to prepare a surprise celebration for Lucien, they then adapted the Little Prince play they had originally planned to perform into a story of the Little Prince celebrating his birthday.
 
 124
-00:08:35,465 --> 00:08:40,356
-Today is the Little Prince’s birthday, and the whole planet comes to offer him their blessings.
+00:08:50,136 --> 00:08:53,173
+And naturally, I also took part in preparing this surprise.
 
 125
-00:08:40,356 --> 00:08:44,862
-The boy wearing the fox-eared headband takes two steps forward and makes a gentlemanly gesture of welcome toward Lucien.
+00:08:53,173 --> 00:08:58,063
+Today is the Little Prince’s birthday, and the whole planet comes to offer him their blessings.
 
 126
-00:08:44,862 --> 00:08:47,803
-Boy: [Boy] Happy birthday, our Little Prince.
+00:08:58,063 --> 00:09:02,570
+The boy wearing the fox-eared headband takes two steps forward and makes a gentlemanly gesture of welcome toward Lucien.
 
 127
-00:08:47,803 --> 00:08:53,364
-Boy: [Boy] Today is the day the stars sent you into this world. On such a special day, all of us are here to celebrate your birthday with you.
+00:09:02,570 --> 00:09:05,510
+Boy: [Boy] Happy birthday, our Little Prince.
 
 128
-00:08:53,364 --> 00:08:59,949
-Girl: [Girl] This is the crown we wove for you with the blessings of the entire planet. Our planet may be small, but here, you will never, ever be alone.
+00:09:05,510 --> 00:09:11,072
+Boy: [Boy] Today is the day the stars sent you into this world. On such a special day, all of us are here to celebrate your birthday with you.
 
 129
-00:08:59,949 --> 00:09:06,469
-The “little sheep” with cotton hair ties takes out a woven flower wreath from behind, the colorful blossoms interwoven and nestled together like a gathered piece of heavy autumn radiance.
+00:09:11,072 --> 00:09:17,656
+Girl: [Girl] This is the crown we wove for you with the blessings of the entire planet. Our planet may be small, but here, you will never, ever be alone.
 
 130
-00:09:06,469 --> 00:09:11,839
-Lucien cooperates by sitting down on the grass and slightly bowing his head, allowing the wreath to be reverently placed upon his head like a crown.
+00:09:17,656 --> 00:09:24,177
+The “little sheep” with cotton hair ties takes out a woven flower wreath from behind, the colorful blossoms interwoven and nestled together like a gathered piece of heavy autumn radiance.
 
 131
-00:09:13,086 --> 00:09:17,209
-Girl: [Girl] Little Prince, welcome to this planet.
+00:09:24,177 --> 00:09:29,546
+Lucien cooperates by sitting down on the grass and slightly bowing his head, allowing the wreath to be reverently placed upon his head like a crown.
 
 132
-00:09:17,209 --> 00:09:23,314
-Boy: [Boy] We like you, and we want to be your best friends for a lifetime.
+00:09:30,793 --> 00:09:34,916
+Girl: [Girl] Little Prince, welcome to this planet.
 
 133
-00:09:23,314 --> 00:09:29,387
-The children of the earth celebrate the arrival of their friend, forgetting their sorrow and sadness, sincere yet also clumsy.
+00:09:34,916 --> 00:09:41,021
+Boy: [Boy] We like you, and we want to be your best friends for a lifetime.
 
 134
-00:09:29,387 --> 00:09:34,181
-They join me in wishing him happiness.
+00:09:41,021 --> 00:09:47,094
+The children of the earth celebrate the arrival of their friend, forgetting their sorrow and sadness, sincere yet also clumsy.
 
 135
-00:09:34,181 --> 00:09:38,720
-What is a birthday?
+00:09:47,094 --> 00:09:51,888
+They join me in wishing him happiness.
 
 136
-00:09:38,720 --> 00:09:43,834
-It is the day the Earth revolves back to where it first saw the sun, the day the stars draw a little closer, the day the wind is gentle and the sunlight warm.
+00:09:51,888 --> 00:09:56,427
+What is a birthday?
 
 137
-00:09:43,834 --> 00:09:49,555
-And now, it is also a day when he is no longer alone, no longer needs to watch forty-four sunsets by himself.
+00:09:56,427 --> 00:10:01,541
+It is the day the Earth revolves back to where it first saw the sun, the day the stars draw a little closer, the day the wind is gentle and the sunlight warm.
 
 138
-00:09:49,555 --> 00:09:55,468
-Naive children may not deeply comprehend what’s being conveyed, yet perhaps they sense it more keenly and understand it more clearly than anyone else.
+00:10:01,541 --> 00:10:07,263
+And now, it is also a day when he is no longer alone, no longer needs to watch forty-four sunsets by himself.
 
 139
-00:09:55,468 --> 00:10:00,199
-Bang-pop!
+00:10:07,263 --> 00:10:13,176
+Naive children may not deeply comprehend what’s being conveyed, yet perhaps they sense it more keenly and understand it more clearly than anyone else.
 
 140
-00:10:00,199 --> 00:10:06,591
-In an instant, the colorful paper pieces and flower confetti burst into the air, drifting and swaying as they fall onto every smiling face, like a dazzling fireworks display.
+00:10:13,176 --> 00:10:17,906
+Bang-pop!
 
 141
-00:10:06,591 --> 00:10:10,683
-At the same time, I hand Lucien a little cake.
+00:10:17,906 --> 00:10:24,299
+In an instant, the colorful paper pieces and flower confetti burst into the air, drifting and swaying as they fall onto every smiling face, like a dazzling fireworks display.
 
 142
-00:10:10,683 --> 00:10:16,276
-It’s plain and small, but the childlike piping is really moving, and the drawn candle looks like wishes that will never fall.
+00:10:24,299 --> 00:10:28,390
+At the same time, I hand Lucien a little cake.
 
 143
-00:10:16,276 --> 00:10:21,582
-The child who set off the confetti lifts both of his hands high with a hearty laugh, as if only in this way can he firmly hold the overflowing blessings.
+00:10:28,390 --> 00:10:33,984
+It’s plain and small, but the childlike piping is really moving, and the drawn candle looks like wishes that will never fall.
 
 144
-00:10:21,582 --> 00:10:25,290
-Lucien holds the cake in one hand and gently rubs the head of the child in front of him with the other.
+00:10:33,984 --> 00:10:39,289
+The child who set off the confetti lifts both of his hands high with a hearty laugh, as if only in this way can he firmly hold the overflowing blessings.
 
 145
-00:10:25,290 --> 00:10:29,828
-Lucien: Thank you everyone.
+00:10:39,289 --> 00:10:42,997
+Lucien holds the cake in one hand and gently rubs the head of the child in front of him with the other.
 
 146
-00:10:29,828 --> 00:10:34,879
-Lucien: Thank you everyone, for coming to celebrate my birthday.
+00:10:42,997 --> 00:10:47,536
+Lucien: Thank you everyone.
 
 147
-00:10:34,879 --> 00:10:40,280
-Children & MC: Happy birthday to you, happy birthday to you…
+00:10:47,536 --> 00:10:52,586
+Lucien: Thank you everyone, for coming to celebrate my birthday.
 
 148
-00:10:40,280 --> 00:10:43,828
-MC: Happy birthday!!
+00:10:52,586 --> 00:10:57,988
+Children & MC: [Children & MC] Happy birthday to you, happy birthday to you…
 
 149
-00:10:43,828 --> 00:10:49,741
-Children: Make a wish, make a wish! Gege‘s wish will definitely come true—
+00:10:57,988 --> 00:11:01,536
+MC: Happy birthday!!
 
 150
-00:10:49,741 --> 00:10:53,385
-The shimmering, radiant light melts into his lowered eyes.
+00:11:01,536 --> 00:11:07,449
+Children: Make a wish, make a wish! Gege‘s wish will definitely come true—
 
 151
-00:10:54,632 --> 00:11:00,832
-Lucien gazes at the childlike yet warm flame, and like a child, he obligingly closes his eyes.
+00:11:07,449 --> 00:11:11,093
+The shimmering, radiant light melts into his lowered eyes.
 
 152
-00:11:06,714 --> 00:11:12,339
-When leaving the orphanage, Lucien thanks the children one by one with heartfelt care and promises to see them again.
+00:11:12,339 --> 00:11:18,540
+Lucien gazes at the childlike yet warm flame, and like a child, he obligingly closes his eyes.
 
 153
-00:11:12,339 --> 00:11:16,974
-As if in a trance, I feel no difference in age or identity in this moment—just similar tender hearts touching each other.
+00:11:24,421 --> 00:11:30,047
+When leaving the orphanage, Lucien thanks the children one by one with heartfelt care and promises to see them again.
 
 154
-00:11:16,974 --> 00:11:20,841
-Since it’s still early, we decide on a whim to find a place to stop the car and take a stroll around.
+00:11:30,047 --> 00:11:34,681
+As if in a trance, I feel no difference in age or identity in this moment—just similar tender hearts touching each other.
 
 155
-00:11:20,841 --> 00:11:25,508
-The flowing daylight soaks everything until it softens. Somehow, I suddenly think of some distant memories and give Lucien’s palm a little squeeze.
+00:11:34,681 --> 00:11:38,549
+Since it’s still early, we decide on a whim to find a place to stop the car and take a stroll around.
 
 156
-00:11:25,508 --> 00:11:29,343
-MC: More and more people know your real birthday now.
+00:11:38,549 --> 00:11:43,215
+The flowing daylight soaks everything until it softens. Somehow, I suddenly think of some distant memories and give Lucien’s palm a little squeeze.
 
 157
-00:11:29,343 --> 00:11:33,786
-Realizing what I’m talking about, he blinks his eyes.
+00:11:43,215 --> 00:11:47,051
+MC: More and more people know your real birthday now.
 
 158
-00:11:33,786 --> 00:11:40,466
-Lucien: It seems I’ve… never imagined a day like this.
+00:11:47,051 --> 00:11:51,494
+Realizing what I’m talking about, he blinks his eyes.
 
 159
-00:11:40,466 --> 00:11:46,635
-He says it sincerely, his tone full of thought, which makes me unable to hold back a smile, and I can’t help but look toward him.
+00:11:51,494 --> 00:11:58,174
+Lucien: It seems I’ve… never imagined a day like this.
 
 160
-00:11:47,179 --> 00:11:54,882
-The halo of light veils the ends of his hair in gold, making it look soft and fluffy, so close I can reach it.
+00:11:58,174 --> 00:12:04,343
+He says it sincerely, his tone full of thought, which makes me unable to hold back a smile, and I can’t help but look toward him.
 
 161
-00:11:56,288 --> 00:12:01,402
-As we enter a small park, transparent bubbles occasionally drift past us. Iridescent, weightless, yet also ephemeral.
+00:12:04,886 --> 00:12:12,589
+The halo of light veils the ends of his hair in gold, making it look soft and fluffy, so close I can reach it.
 
 162
-00:12:01,402 --> 00:12:06,804
-We tacitly slow our pace, sinking into this romantic tranquility.
+00:12:13,996 --> 00:12:19,110
+As we enter a small park, transparent bubbles occasionally drift past us. Iridescent, weightless, yet also ephemeral.
 
 163
-00:12:06,804 --> 00:12:11,534
-The sparse, scattered shadows of the trees along the path fall upon him, dappling his form in alternating light and shadow.
+00:12:19,110 --> 00:12:24,511
+We tacitly slow our pace, sinking into this romantic tranquility.
 
 164
-00:12:11,534 --> 00:12:19,142
-To this day, looking back time and again, those small things he once kept hidden have come to feel like a unique kind of demarcation and welcoming invitation.
+00:12:24,511 --> 00:12:29,242
+The sparse, scattered shadows of the trees along the path fall upon him, dappling his form in alternating light and shadow.
 
 165
-00:12:19,142 --> 00:12:25,438
-Such uniqueness is captivating, but I’m always afraid that he will be alone.
+00:12:29,242 --> 00:12:36,849
+To this day, looking back time and again, those small things he once kept hidden have come to feel like a unique kind of demarcation and welcoming invitation.
 
 166
-00:12:25,438 --> 00:12:30,680
-Lucien notices my gaze and my silence; he doesn’t speak and simply looks toward me.
+00:12:36,849 --> 00:12:43,146
+Such uniqueness is captivating, but I’m always afraid that he will be alone.
 
 167
-00:12:30,680 --> 00:12:35,475
-I gently shake our clasped palms.
+00:12:43,146 --> 00:12:48,388
+Lucien notices my gaze and my silence; he doesn’t speak and simply looks toward me.
 
 168
-00:12:35,475 --> 00:12:37,840
-MC: Lucien, I’m really so greedy.
+00:12:48,388 --> 00:12:53,182
+I gently shake our clasped palms.
 
 169
-00:12:37,840 --> 00:12:45,447
-MC: Sometimes I wish that everything about you belonged only to me, that all your secrets, joys, and sorrows were known to me alone.
+00:12:53,182 --> 00:12:55,547
+MC: Lucien, I’m really so greedy.
 
 170
-00:12:45,447 --> 00:12:50,529
-MC: But sometimes I want to surround you with even more warmth, and let you enjoy all the praise and blessings from the whole world.
+00:12:55,547 --> 00:13:03,154
+MC: Sometimes I wish that everything about you belonged only to me, that all your secrets, joys, and sorrows were known to me alone.
 
 171
-00:12:50,529 --> 00:12:55,995
-Lucien: It seems MC has become just like me too.
+00:13:03,154 --> 00:13:08,237
+MC: But sometimes I want to surround you with even more warmth, and let you enjoy all the praise and blessings from the whole world.
 
 172
-00:12:55,995 --> 00:13:00,342
-MC: Besides the genius-level mind and knowledge, I’ve long since become like Professor Xu.
+00:13:08,237 --> 00:13:13,702
+Lucien: It seems MC has become just like me too.
 
 173
-00:13:00,342 --> 00:13:07,629
-Lucien: Then be even greedier, I want you to be greedy for me.
+00:13:13,702 --> 00:13:18,049
+MC: Besides the genius-level mind and knowledge, I’ve long since become like Professor Xu.
 
 174
-00:13:07,629 --> 00:13:10,826
-MC: Really? Then there will be two greedy ones in our home!
+00:13:18,049 --> 00:13:25,337
+Lucien: Then be even greedier, I want you to be greedy for me.
 
 175
-00:13:10,826 --> 00:13:19,328
-Lucien: It sounds like something that would bring joy.
+00:13:25,337 --> 00:13:28,533
+MC: Really? Then there will be two greedy ones in our home!
 
 176
-00:13:19,328 --> 00:13:24,889
-He crinkles his eyes, speaking so naturally and earnestly that I can’t help but laugh too.
+00:13:28,533 --> 00:13:37,035
+Lucien: It sounds like something that would bring joy.
 
 177
-00:13:24,889 --> 00:13:29,172
-Suddenly, Lucien notices something I can’t see; his line of sight lingers behind me for a moment. Before I can curiously turn to look, he pulls me into a run.
+00:13:37,035 --> 00:13:42,597
+He crinkles his eyes, speaking so naturally and earnestly that I can’t help but laugh too.
 
 178
-00:13:29,172 --> 00:13:34,670
-Lucien: MC, I want to play that.
+00:13:42,597 --> 00:13:46,880
+Suddenly, Lucien notices something I can’t see; his line of sight lingers behind me for a moment. Before I can curiously turn to look, he pulls me into a run.
 
 179
-00:13:34,670 --> 00:13:37,323
-MC: Huh?
+00:13:46,880 --> 00:13:52,377
+Lucien: MC, I want to play that.
 
 180
-00:13:37,323 --> 00:13:40,903
-Hearing such straightforward words come from his mouth, I momentarily think I must have misheard.
+00:13:52,377 --> 00:13:55,030
+MC: Huh?
 
 181
-00:13:40,903 --> 00:13:47,519
+00:13:55,030 --> 00:13:58,610
 Hearing such straightforward words come from his mouth, I momentarily think I must have misheard.
 
 182
-00:13:47,519 --> 00:13:54,295
-The small circular platform lies quietly within a transparent, circular ‘bubble dome’, swaying in the sunlight and giving off a kaleidoscope of colors.
+00:13:58,610 --> 00:14:05,226
+Hearing such straightforward words come from his mouth, I momentarily think I must have misheard.
 
 183
-00:13:54,295 --> 00:13:59,985
-The children in front of us run ahead in high spirits; one steps up onto the platform, while the other squats down outside it, gripping the golden pull-rod connected to the pump.
+00:14:05,226 --> 00:14:12,003
+The small circular platform lies quietly within a transparent, circular ‘bubble dome’, swaying in the sunlight and giving off a kaleidoscope of colors.
 
 184
-00:13:59,985 --> 00:14:05,482
+00:14:12,003 --> 00:14:17,692
 The children in front of us run ahead in high spirits; one steps up onto the platform, while the other squats down outside it, gripping the golden pull-rod connected to the pump.
 
 185
-00:14:05,482 --> 00:14:11,012
+00:14:17,692 --> 00:14:23,190
 The children in front of us run ahead in high spirits; one steps up onto the platform, while the other squats down outside it, gripping the golden pull-rod connected to the pump.
 
 186
-00:14:11,491 --> 00:14:14,943
-Lucien: It’s our turn.
+00:14:23,190 --> 00:14:28,719
+The children in front of us run ahead in high spirits; one steps up onto the platform, while the other squats down outside it, gripping the golden pull-rod connected to the pump.
 
 187
-00:14:14,943 --> 00:14:20,760
-Lucien pulls me to the center of the round platform.
+00:14:29,199 --> 00:14:32,651
+Lucien: It’s our turn.
 
 188
-00:14:20,760 --> 00:14:25,491
-MC: Are we both supposed to stand inside? But this seems like it needs someone to be outside…
+00:14:32,651 --> 00:14:38,468
+Lucien pulls me to the center of the round platform.
 
 189
-00:14:25,491 --> 00:14:29,199
-Before I can finish speaking, he pulls me into his arms in one swift motion, gazing at me with eyes brimming with a smile.
+00:14:38,468 --> 00:14:43,198
+MC: Are we both supposed to stand inside? But this seems like it needs someone to be outside…
 
 190
-00:14:29,199 --> 00:14:35,208
-With a barely perceptible sound, the pull-rod at our feet seems to be pulled by an invisible force, slowly rising—
+00:14:43,198 --> 00:14:46,906
+Before I can finish speaking, he pulls me into his arms in one swift motion, gazing at me with eyes brimming with a smile.
 
 191
-00:14:36,422 --> 00:14:43,582
-The soft film gradually rises, drawing the flowing world around it into itself and spreading a rainbow-hued halo.
+00:14:46,906 --> 00:14:52,915
+With a barely perceptible sound, the pull-rod at our feet seems to be pulled by an invisible force, slowly rising—
 
 192
-00:14:43,582 --> 00:14:48,792
-Like huge transparent petals, blooming and closing, both hazy and dreamlike.
+00:14:54,130 --> 00:15:01,289
+The soft film gradually rises, drawing the flowing world around it into itself and spreading a rainbow-hued halo.
 
 193
-00:14:48,792 --> 00:14:53,874
-It gently yet firmly envelops us, immersing us in the midst of its dazzling yet fragile life.
+00:15:01,289 --> 00:15:06,499
+Like huge transparent petals, blooming and closing, both hazy and dreamlike.
 
 194
-00:14:53,874 --> 00:14:59,947
-As if it were a transparent universe.
+00:15:06,499 --> 00:15:11,581
+It gently yet firmly envelops us, immersing us in the midst of its dazzling yet fragile life.
 
 195
-00:14:59,947 --> 00:15:05,828
-Lucien places my palm against his chest, the strong, solid pulsation seeming to seep along my fingertips toward my heart.
+00:15:11,581 --> 00:15:17,654
+As if it were a transparent universe.
 
 196
-00:15:05,828 --> 00:15:16,472
-Lucien: Birth, brilliance, struggle… then silently dissolves into foam.
+00:15:17,654 --> 00:15:23,536
+Lucien places my palm against his chest, the strong, solid pulsation seeming to seep along my fingertips toward my heart.
 
 197
-00:15:16,472 --> 00:15:22,609
-Lucien: For me, the world is often like this.
+00:15:23,536 --> 00:15:34,179
+Lucien: Birth, brilliance, struggle… then silently dissolves into foam.
 
 198
-00:15:22,609 --> 00:15:30,951
-Lucien: I can see it clearly, yet I don’t necessarily need to approach and feel it.
+00:15:34,179 --> 00:15:40,316
+Lucien: For me, the world is often like this.
 
 199
-00:15:30,951 --> 00:15:46,549
-Lucien: But then, you are here. I feel your warmth and scent, as if they were the warmth and scent of the world itself.
+00:15:40,316 --> 00:15:48,658
+Lucien: I can see it clearly, yet I don’t necessarily need to approach and feel it.
 
 200
-00:15:46,549 --> 00:15:58,631
-Lucien: It can feel cramped, confining, even make me want to leave or push it away, and yet…
+00:15:48,658 --> 00:16:04,256
+Lucien: But then, you are here. I feel your warmth and scent, as if they were the warmth and scent of the world itself.
 
 201
-00:15:58,631 --> 00:16:11,224
-Lucien: And yet, I still feel a kind of indefinable happiness, one I can neither let go of, nor bear to part with.
+00:16:04,256 --> 00:16:16,338
+Lucien: It can feel cramped, confining, even make me want to leave or push it away, and yet…
 
 202
-00:16:11,224 --> 00:16:15,156
-His voice is soft, yet it lands heavily upon my heart.
+00:16:16,338 --> 00:16:28,932
+Lucien: And yet, I still feel a kind of indefinable happiness, one I can neither let go of, nor bear to part with.
 
 203
-00:16:15,156 --> 00:16:21,452
-It’s as if something is continually clamoring into bloom within my chest, leaving me at a loss for words. All I can do is look back at him.
+00:16:28,932 --> 00:16:32,863
+His voice is soft, yet it lands heavily upon my heart.
 
 204
-00:16:21,452 --> 00:16:32,064
-Lucien: Even if it hangs suspended in the air, I still want to touch its existence and witness its dazzling radiance.
+00:16:32,863 --> 00:16:39,160
+It’s as if something is continually clamoring into bloom within my chest, leaving me at a loss for words. All I can do is look back at him.
 
 205
-00:16:32,064 --> 00:16:41,621
-Sunlight streams through the bubble, refracting into a shifting, fluid iridescence.
+00:16:39,160 --> 00:16:49,771
+Lucien: Even if it hangs suspended in the air, I still want to touch its existence and witness its dazzling radiance.
 
 206
-00:16:43,027 --> 00:16:48,109
-As his words come to an end, the bubble bursts with a sudden pop, its colorful, glistening fragments falling all over us.
+00:16:49,771 --> 00:16:59,328
+Sunlight streams through the bubble, refracting into a shifting, fluid iridescence.
 
 207
-00:16:48,109 --> 00:16:52,456
-A faint coolness slips gently into my breath, like a sweet and fleeting kiss.
+00:17:00,735 --> 00:17:05,817
+As his words come to an end, the bubble bursts with a sudden pop, its colorful, glistening fragments falling all over us.
 
 208
-00:16:52,456 --> 00:16:56,995
-It’s the scent of bubble water, yet it also feels like the scent of contentment.
+00:17:05,817 --> 00:17:10,164
+A faint coolness slips gently into my breath, like a sweet and fleeting kiss.
 
 209
-00:16:56,995 --> 00:17:07,063
-Lucien: Then I heard a sound I’d never heard before, the sound of heartbeats.
+00:17:10,164 --> 00:17:14,702
+It’s the scent of bubble water, yet it also feels like the scent of contentment.
 
 210
-00:17:07,063 --> 00:17:13,104
-Lucien smiles; he looks gentle and cherishing, surrendering and happy.
+00:17:14,702 --> 00:17:24,771
+Lucien: Then I heard a sound I’d never heard before, the sound of heartbeats.
 
 211
-00:17:13,104 --> 00:17:18,634
-Amidst the hazy vibrancy, I watch him solemnly hand me a small rectangular paper bag.
+00:17:24,771 --> 00:17:30,812
+Lucien smiles; he looks gentle and cherishing, surrendering and happy.
 
 212
-00:17:18,634 --> 00:17:28,479
-Lucien: MC, I want to welcome you into my life.
+00:17:30,812 --> 00:17:36,341
+Amidst the hazy vibrancy, I watch him solemnly hand me a small rectangular paper bag.
 
 213
-00:17:32,730 --> 00:17:36,693
-After leaving this paper bag, Lucien then ‘vanishes’.
+00:17:36,341 --> 00:17:46,186
+Lucien: MC, I want to welcome you into my life.
 
 214
-00:17:36,693 --> 00:17:40,944
-The iridescent soap bubble dissolves into the air, as if it were a dream known to no one.
+00:17:50,437 --> 00:17:54,400
+After leaving this paper bag, Lucien then ‘vanishes’.
 
 215
-00:17:40,944 --> 00:17:44,844
-Fortunately, hardly anyone pays attention to this little corner of ours. I act as if nothing happened, walk over to a nearby bench, and sit down, poking at the paper bag as I mutter.
+00:17:54,400 --> 00:17:58,651
+The iridescent soap bubble dissolves into the air, as if it were a dream known to no one.
 
 216
-00:17:44,844 --> 00:17:49,798
-MC: Honestly, this man… he’s not allowed to misuse space-folding like this from now on— not even on his birthday!
+00:17:58,651 --> 00:18:02,551
+Fortunately, hardly anyone pays attention to this little corner of ours. I act as if nothing happened, walk over to a nearby bench, and sit down, poking at the paper bag as I mutter.
 
 217
-00:17:49,798 --> 00:17:54,241
-Actually, I don’t know what Lucien intends, but I will accompany this birthday star along whatever path he wishes to take.
+00:18:02,551 --> 00:18:07,505
+MC: Honestly, this man… he’s not allowed to misuse space-folding like this from now on— not even on his birthday!
 
 218
-00:17:54,241 --> 00:18:00,889
-I want to understand everything he conveys and solve the riddle he has left for me.
+00:18:07,505 --> 00:18:11,948
+Actually, I don’t know what Lucien intends, but I will accompany this birthday star along whatever path he wishes to take.
 
 219
-00:18:00,889 --> 00:18:07,313
-I carefully open the paper bag. A small train ticket lies quietly inside.
+00:18:11,948 --> 00:18:18,596
+I want to understand everything he conveys and solve the riddle he has left for me.
 
 220
-00:18:07,313 --> 00:18:13,450
-I quickly look it up: it’s a special train that runs between downtown Loveland City and the suburbs, with only two departures a day, and the next departure time is…
+00:18:18,596 --> 00:18:25,021
+I carefully open the paper bag. A small train ticket lies quietly inside.
 
 221
-00:18:13,450 --> 00:18:19,204
-MC: There’s still two hours…
+00:18:25,021 --> 00:18:31,158
+I quickly look it up: it’s a special train that runs between downtown Loveland City and the suburbs, with only two departures a day, and the next departure time is…
 
 222
-00:18:20,450 --> 00:18:26,843
-The ample time feels like the silence and waiting Lucien has left for me. By the time I arrive at the platform, the sun has already melted into the horizon, and the sky is a soft expanse of orange-pink.
+00:18:31,158 --> 00:18:36,911
+MC: There’s still two hours…
 
 223
-00:18:26,843 --> 00:18:30,678
-The evening wind passes through the empty platform, letting out a long, drawn-out wail.
+00:18:38,158 --> 00:18:44,550
+The ample time feels like the silence and waiting Lucien has left for me. By the time I arrive at the platform, the sun has already melted into the horizon, and the sky is a soft expanse of orange-pink.
 
 224
-00:18:30,678 --> 00:18:33,875
-Holding the ticket, I double-check the train information on the timetable, then wait anxiously.
+00:18:44,550 --> 00:18:48,386
+The evening wind passes through the empty platform, letting out a long, drawn-out wail.
 
 225
-00:18:33,875 --> 00:18:38,285
-…until the headlights approaching from afar seize my entire field of vision.
+00:18:48,386 --> 00:18:51,582
+Holding the ticket, I double-check the train information on the timetable, then wait anxiously.
 
 226
-00:18:38,285 --> 00:18:43,751
-I see the train slowly come to a steady stop, its doors opening like a silent invitation.
+00:18:51,582 --> 00:18:55,993
+…until the headlights approaching from afar seize my entire field of vision.
 
 227
-00:18:43,751 --> 00:18:50,080
-After a brief moment of daze, I step aboard without hesitation.
+00:18:55,993 --> 00:19:01,459
+I see the train slowly come to a steady stop, its doors opening like a silent invitation.
 
 228
-00:18:51,390 --> 00:18:57,847
-Inside the carriage steeped in dusk, hanging goldfish lanterns sway with the sunset’s afterglow, their dangling tassels rocking lightly as if swimming through this stretch of warm-hued ocean.
+00:19:01,459 --> 00:19:07,787
+After a brief moment of daze, I step aboard without hesitation.
 
 229
-00:18:57,847 --> 00:19:03,952
-I instinctively turn and walk a few steps toward the carriage further back, and soon, I see that familiar figure.
+00:19:09,098 --> 00:19:15,554
+Inside the carriage steeped in dusk, hanging goldfish lanterns sway with the sunset’s afterglow, their dangling tassels rocking lightly as if swimming through this stretch of warm-hued ocean.
 
 230
-00:19:03,952 --> 00:19:09,321
-Step by step, I walk toward him, feeling my restless, clamorous heart finally settle back into its place.
+00:19:15,554 --> 00:19:21,659
+I instinctively turn and walk a few steps toward the carriage further back, and soon, I see that familiar figure.
 
 231
-00:19:09,321 --> 00:19:15,107
-Lucien sits within the dusk, as if superimposed upon both the shadows and the blazing sunset clouds.
+00:19:21,659 --> 00:19:27,029
+Step by step, I walk toward him, feeling my restless, clamorous heart finally settle back into its place.
 
 232
-00:19:15,107 --> 00:19:19,709
-I sit down across from him and look at him.
+00:19:27,029 --> 00:19:32,814
+Lucien sits within the dusk, as if superimposed upon both the shadows and the blazing sunset clouds.
 
 233
-00:19:19,709 --> 00:19:22,842
-MC: I’ve come to see you, Lucien.
+00:19:32,814 --> 00:19:37,417
+I sit down across from him and look at him.
 
 234
-00:19:22,842 --> 00:19:27,668
-Lucien looks at me, his dark eyes surging with many complex emotions.
+00:19:37,417 --> 00:19:40,549
+MC: I’ve come to see you, Lucien.
 
 235
-00:19:27,668 --> 00:19:38,887
-Lucien: It was me who deliberately brought you here to see me. It was me… who deliberately made you board my train.
+00:19:40,549 --> 00:19:45,376
+Lucien looks at me, his dark eyes surging with many complex emotions.
 
 236
-00:19:38,887 --> 00:19:43,841
-His voice is hidden amid the rumble of the moving train, as if drifting in from someplace far away, yet it falls clearly into my ears.
+00:19:45,376 --> 00:19:56,595
+Lucien: It was me who deliberately brought you here to see me. It was me… who deliberately made you board my train.
 
 237
-00:19:43,841 --> 00:19:45,440
-MC: I know.
+00:19:56,595 --> 00:20:01,549
+His voice is hidden amid the rumble of the moving train, as if drifting in from someplace far away, yet it falls clearly into my ears.
 
 238
-00:19:45,440 --> 00:19:51,001
-MC: But no matter what, I will come to see you. I will board this train.
+00:20:01,549 --> 00:20:03,147
+MC: I know.
 
 239
-00:19:51,001 --> 00:19:55,028
-MC: I just hope… I didn’t make you wait for me too long.
+00:20:03,147 --> 00:20:08,709
+MC: But no matter what, I will come to see you. I will board this train.
 
 240
-00:19:55,476 --> 00:20:00,558
-Lucien says nothing, his gaze drifting slowly toward the window. The sky, dyed with pink and purple, falls completely into his eyes.
+00:20:08,709 --> 00:20:12,736
+MC: I just hope… I didn’t make you wait for me too long.
 
 241
-00:20:00,558 --> 00:20:05,480
-After a moment, he speaks softly.
+00:20:13,183 --> 00:20:18,265
+Lucien says nothing, his gaze drifting slowly toward the window. The sky, dyed with pink and purple, falls completely into his eyes.
 
 242
-00:20:05,480 --> 00:20:19,991
-Lucien: Earlier today, I also boarded this train. From the starting station to the terminal station, I travel this journey alone.
+00:20:18,265 --> 00:20:23,188
+After a moment, he speaks softly.
 
 243
-00:20:19,991 --> 00:20:31,626
-Lucien: Death and birth are but a fleeting moment apart; life is but a goldfish train heading into darkness.
+00:20:23,188 --> 00:20:37,699
+Lucien: Earlier today, I also boarded this train. From the starting station to the terminal station, I travel this journey alone.
 
 244
-00:20:31,626 --> 00:20:36,452
-He says it so naturally, yet it makes my heart ache.
+00:20:37,699 --> 00:20:49,333
+Lucien: Death and birth are but a fleeting moment apart; life is but a goldfish train heading into darkness.
 
 245
-00:20:36,452 --> 00:20:53,457
-Lucien: They’ve been gone for a long while, and I’ve lived alone for a long time too. But this morning, I suddenly realized… the days with you by my side have also passed for a long time without my noticing.
+00:20:49,333 --> 00:20:54,160
+He says it so naturally, yet it makes my heart ache.
 
 246
-00:20:53,457 --> 00:21:01,160
-Lucien: So this morning, when I was sitting here, I missed you very much.
+00:20:54,160 --> 00:21:11,164
+Lucien: They’ve been gone for a long while, and I’ve lived alone for a long time too. But this morning, I suddenly realized… the days with you by my side have also passed for a long time without my noticing.
 
 247
-00:21:01,160 --> 00:21:10,429
-Lucien: Thinking of you, I felt a particular emotion.
+00:21:11,164 --> 00:21:18,867
+Lucien: So this morning, when I was sitting here, I missed you very much.
 
 248
-00:21:10,429 --> 00:21:12,922
-MC: What is it?
+00:21:18,867 --> 00:21:28,136
+Lucien: Thinking of you, I felt a particular emotion.
 
 249
-00:21:12,922 --> 00:21:18,036
-Lucien: Loneliness.
+00:21:28,136 --> 00:21:30,629
+MC: What is it?
 
 250
-00:21:18,036 --> 00:21:21,999
-He quietly gazes at me, as if he is looking straight into the bottom of my heart.
+00:21:30,629 --> 00:21:35,744
+Lucien: Loneliness.
 
 251
-00:21:21,999 --> 00:21:26,219
-During the girl’s brief silence, Lucien suddenly feels a sense of peace and steadiness, the kind that comes after one’s heart has been laid bare.
+00:21:35,744 --> 00:21:39,707
+He quietly gazes at me, as if he is looking straight into the bottom of my heart.
 
 252
-00:21:26,219 --> 00:21:30,342
-Fresh flowers, smiles, fireworks, bubbles, time, life… love.
+00:21:39,707 --> 00:21:43,926
+During the girl’s brief silence, Lucien suddenly feels a sense of peace and steadiness, the kind that comes after one’s heart has been laid bare.
 
 253
-00:21:30,342 --> 00:21:35,712
-They are clearly so fleeting, yet why do they still stay etched in my mind?
+00:21:43,926 --> 00:21:48,049
+Fresh flowers, smiles, fireworks, bubbles, time, life… love.
 
 254
-00:21:35,712 --> 00:21:42,584
-I know you are the answer, but why is it that you turn them into something eternal?
+00:21:48,049 --> 00:21:53,419
+They are clearly so fleeting, yet why do they still stay etched in my mind?
 
 255
-00:21:42,584 --> 00:21:49,328
-In this loneliness, I replay them in my mind, and then I think of you.
+00:21:53,419 --> 00:22:00,291
+I know you are the answer, but why is it that you turn them into something eternal?
 
 256
-00:21:49,328 --> 00:21:54,026
-MC: And now I’m here, I’ve come to your side.
+00:22:00,291 --> 00:22:07,035
+In this loneliness, I replay them in my mind, and then I think of you.
 
 257
-00:21:54,026 --> 00:22:00,930
-Lucien: So I think… I will look forward to encountering them again.
+00:22:07,035 --> 00:22:11,734
+MC: And now I’m here, I’ve come to your side.
 
 258
-00:22:00,930 --> 00:22:15,889
-Lucien: Willingly letting them bring me dull pain, watching their blooming and their withering, allowing them to enrich my entire being.
+00:22:11,734 --> 00:22:18,638
+Lucien: So I think… I will look forward to encountering them again.
 
 259
-00:22:15,889 --> 00:22:21,131
-MC: But Lucien, you seem afraid.
+00:22:18,638 --> 00:22:33,596
+Lucien: Willingly letting them bring me dull pain, watching their blooming and their withering, allowing them to enrich my entire being.
 
 260
-00:22:21,131 --> 00:22:25,638
-Lucien: Afraid…
+00:22:33,596 --> 00:22:38,838
+MC: But Lucien, you seem afraid.
 
 261
-00:22:25,638 --> 00:22:31,199
-He murmurs, repeating what I said, then lapses into silence.
+00:22:38,838 --> 00:22:43,345
+Lucien: Afraid…
 
 262
-00:22:31,199 --> 00:22:38,966
-As the train speeds forward, I watch him pause for a long moment, then smiles reflectively.
+00:22:43,345 --> 00:22:48,907
+He murmurs, repeating what I said, then lapses into silence.
 
 263
-00:22:38,966 --> 00:22:49,546
-Lucien: So it turns out I’m also afraid.
+00:22:48,907 --> 00:22:56,674
+As the train speeds forward, I watch him pause for a long moment, then smiles reflectively.
 
 264
-00:22:49,546 --> 00:22:54,916
-If life and death are separated only by a single door, if impermanence is the everyday reality of fate, if on the same day I welcome death’s arrival and birth’s celebratory song…
+00:22:56,674 --> 00:23:07,253
+Lucien: So it turns out I’m also afraid.
 
 265
-00:22:54,916 --> 00:22:59,710
-Then life and death seem to hold no difference to me.
+00:23:07,253 --> 00:23:12,623
+If life and death are separated only by a single door, if impermanence is the everyday reality of fate, if on the same day I welcome death’s arrival and birth’s celebratory song…
 
 266
-00:22:59,710 --> 00:23:03,418
-But I’m still afraid.
+00:23:12,623 --> 00:23:17,417
+Then life and death seem to hold no difference to me.
 
 267
-00:23:03,418 --> 00:23:08,308
-Just like when I think of those two figures, it’s as if the numbing anesthesia is wearing off, leaving me in a belated, dawning silence.
+00:23:17,417 --> 00:23:21,125
+But I’m still afraid.
 
 268
-00:23:08,308 --> 00:23:12,751
-The person before me seems somewhat at a loss and troubled, yet also incomparably vivid.
+00:23:21,125 --> 00:23:26,016
+Just like when I think of those two figures, it’s as if the numbing anesthesia is wearing off, leaving me in a belated, dawning silence.
 
 269
-00:23:12,751 --> 00:23:14,924
-MC: Lucien.
+00:23:26,016 --> 00:23:30,458
+The person before me seems somewhat at a loss and troubled, yet also incomparably vivid.
 
 270
-00:23:14,924 --> 00:23:18,217
-I stand up and walk toward him.
+00:23:30,458 --> 00:23:32,632
+MC: Lucien.
 
 271
-00:23:18,217 --> 00:23:23,490
-MC: You know, I actually thought for a long, long time about what gift to give you this year.
+00:23:32,632 --> 00:23:35,924
+I stand up and walk toward him.
 
 272
-00:23:23,490 --> 00:23:28,668
-MC: In the end, I came up with something that’s a bit special.
+00:23:35,924 --> 00:23:41,198
+MC: You know, I actually thought for a long, long time about what gift to give you this year.
 
 273
-00:23:28,668 --> 00:23:35,093
-As I speak, I take out from my bag a thin stack of A4 paper that I had secretly slipped in that morning. I then solemnly place it in Lucien’s hands and sit down beside him.
+00:23:41,198 --> 00:23:46,376
+MC: In the end, I came up with something that’s a bit special.
 
 274
-00:23:35,093 --> 00:23:40,686
-He seems a little taken aback. His lowered gaze pauses briefly on the paper before returning to my face.
+00:23:46,376 --> 00:23:52,800
+As I speak, I take out from my bag a thin stack of A4 paper that I had secretly slipped in that morning. I then solemnly place it in Lucien’s hands and sit down beside him.
 
 275
-00:23:40,686 --> 00:23:45,513
-Even against the backlight, I can clearly see something flickering within those beautiful eyes.
+00:23:52,800 --> 00:23:58,394
+He seems a little taken aback. His lowered gaze pauses briefly on the paper before returning to my face.
 
 276
-00:23:45,513 --> 00:23:51,554
-MC: Dear Professor Xu, although it may seem a little strange as your birthday gift, what I want to give you is my, MC’s life insurance policy.
+00:23:58,394 --> 00:24:03,220
+Even against the backlight, I can clearly see something flickering within those beautiful eyes.
 
 277
-00:23:51,554 --> 00:23:55,709
-MC: It may not have any legal effect, but I guarantee it is still valid.
+00:24:03,220 --> 00:24:09,261
+MC: Dear Professor Xu, although it may seem a little strange as your birthday gift, what I want to give you is my, MC’s life insurance policy.
 
 278
-00:23:55,709 --> 00:24:00,599
-MC: Fate is capricious, and people get worn down by all kinds of partings, so I want to stay by your side, always and forever.
+00:24:09,261 --> 00:24:13,416
+MC: It may not have any legal effect, but I guarantee it is still valid.
 
 279
-00:24:00,599 --> 00:24:05,074
-MC: I don’t want you to go through dusk and dawn alone anymore. I want you to be whole from now on, and I want to be within that wholeness.
+00:24:13,416 --> 00:24:18,307
+MC: Fate is capricious, and people get worn down by all kinds of partings, so I want to stay by your side, always and forever.
 
 280
-00:24:05,074 --> 00:24:09,165
-MC: I want to turn your train into ours.
+00:24:18,307 --> 00:24:22,782
+MC: I don’t want you to go through dusk and dawn alone anymore. I want you to be whole from now on, and I want to be within that wholeness.
 
 281
-00:24:09,165 --> 00:24:12,202
-I take his hand and draw him into my arms.
+00:24:22,782 --> 00:24:26,873
+MC: I want to turn your train into ours.
 
 282
-00:24:12,202 --> 00:24:16,197
-MC: I’ve listed many possible dangers and accidents, along with compensation measures and ‘claims details’.
+00:24:26,873 --> 00:24:29,909
+I take his hand and draw him into my arms.
 
 283
-00:24:16,197 --> 00:24:21,343
-MC: But this gift goes both ways. We’re both each other’s Party A and Party B.
+00:24:29,909 --> 00:24:33,905
+MC: I’ve listed many possible dangers and accidents, along with compensation measures and ‘claims details’.
 
 284
-00:24:21,343 --> 00:24:25,690
-MC: My name is already written on it.
+00:24:33,905 --> 00:24:39,051
+MC: But this gift goes both ways. We’re both each other’s Party A and Party B.
 
 285
-00:24:25,690 --> 00:24:28,855
-MC: Lucien, are you willing?
+00:24:39,051 --> 00:24:43,398
+MC: My name is already written on it.
 
 286
-00:24:28,855 --> 00:24:33,042
-As I speak, Lucien takes another look at the ‘insurance policy’ in his hands.
+00:24:43,398 --> 00:24:46,562
+MC: Lucien, are you willing?
 
 287
-00:24:33,042 --> 00:24:37,996
-He reads very slowly, which even makes me a little nervous—was the content I prepared not rigorous enough, or was my wording too jocular?
+00:24:46,562 --> 00:24:50,749
+As I speak, Lucien takes another look at the ‘insurance policy’ in his hands.
 
 288
-00:24:37,996 --> 00:24:42,695
-Or perhaps, it’s still too informal as a gift.
+00:24:50,749 --> 00:24:55,703
+He reads very slowly, which even makes me a little nervous—was the content I prepared not rigorous enough, or was my wording too jocular?
 
 289
-00:24:42,695 --> 00:24:46,754
-Lucien: I do.
+00:24:55,703 --> 00:25:00,402
+Or perhaps, it’s still too informal as a gift.
 
 290
-00:24:46,754 --> 00:24:51,964
-As if it is the sound of fate itself, I hear his answer.
+00:25:00,402 --> 00:25:04,461
+Lucien: I do.
 
 291
-00:24:51,964 --> 00:25:00,114
-Lucien: How fortunate I am to receive such a special gift.
+00:25:04,461 --> 00:25:09,671
+As if it is the sound of fate itself, I hear his answer.
 
 292
-00:25:00,114 --> 00:25:05,132
-After saying this, Lucien takes a fountain pen from his pocket and signs his own name at the signature space, stroke by stroke.
+00:25:09,671 --> 00:25:17,822
+Lucien: How fortunate I am to receive such a special gift.
 
 293
-00:25:05,132 --> 00:25:11,781
-Last wisp of sunset sinks beneath the horizon, and the train plunges into darkness. Yet our names—mine on the left, Lucien’s on the right—remain clearly visible.
+00:25:17,822 --> 00:25:22,840
+After saying this, Lucien takes a fountain pen from his pocket and signs his own name at the signature space, stroke by stroke.
 
 294
-00:25:11,781 --> 00:25:20,219
-The imprint left by ink upon the paper is deeply etched and powerful, like a vow both sincere and solemnly cherished.
+00:25:22,840 --> 00:25:29,488
+Last wisp of sunset sinks beneath the horizon, and the train plunges into darkness. Yet our names—mine on the left, Lucien’s on the right—remain clearly visible.
 
 295
-00:25:21,593 --> 00:25:25,173
-The train arrives at the station, and Lucien holds my hand as we step off.
+00:25:29,488 --> 00:25:37,926
+The imprint left by ink upon the paper is deeply etched and powerful, like a vow both sincere and solemnly cherished.
 
 296
-00:25:25,173 --> 00:25:30,064
-Standing on the dark platform, we seem to have arrived at some kind of endpoint as well.
+00:25:39,301 --> 00:25:42,881
+The train arrives at the station, and Lucien holds my hand as we step off.
 
 297
-00:25:30,064 --> 00:25:35,529
-In the distance, the mountains and wilderness stand solemn; the distant soil seems to harbor a plethora of words that ‘time’ hasn’t yet finished speaking.
+00:25:42,881 --> 00:25:47,771
+Standing on the dark platform, we seem to have arrived at some kind of endpoint as well.
 
 298
-00:25:35,529 --> 00:25:42,529
-Lucien: At a time like this, I suddenly don’t know what to say.
+00:25:47,771 --> 00:25:53,237
+In the distance, the mountains and wilderness stand solemn; the distant soil seems to harbor a plethora of words that ‘time’ hasn’t yet finished speaking.
 
 299
-00:25:42,529 --> 00:25:48,346
-I can’t help but smile. From my bag, I fish out the birthday candle I didn’t get to use during the day. I light it with the lighter I’d prepared and bring it close to him.
+00:25:53,237 --> 00:26:00,237
+Lucien: At a time like this, I suddenly don’t know what to say.
 
 300
-00:25:48,346 --> 00:25:52,661
-MC: Then go ahead and make a wish. Happy birthday, Lucien.
+00:26:00,237 --> 00:26:06,054
+I can’t help but smile. From my bag, I fish out the birthday candle I didn’t get to use during the day. I light it with the lighter I’d prepared and bring it close to him.
 
 301
-00:25:52,661 --> 00:25:57,136
-MC: When making a wish, you don’t have to say it.
+00:26:06,054 --> 00:26:10,369
+MC: Then go ahead and make a wish. Happy birthday, Lucien.
 
 302
-00:25:57,136 --> 00:26:01,835
-I wink at him.
+00:26:10,369 --> 00:26:14,844
+MC: When making a wish, you don’t have to say it.
 
 303
-00:26:01,835 --> 00:26:08,259
-MC: The candle at noon wasn’t formal enough, and… you were just going along with the children back then, but you didn’t actually make a wish, right?
+00:26:14,844 --> 00:26:19,542
+I wink at him.
 
 304
-00:26:08,259 --> 00:26:11,935
-Firelight flickers in his eyes, yet I feel there has never been a moment when I see him more clearly than now.
+00:26:19,542 --> 00:26:25,967
+MC: The candle at noon wasn’t formal enough, and… you were just going along with the children back then, but you didn’t actually make a wish, right?
 
 305
-00:26:11,935 --> 00:26:15,419
-Lucien chuckles.
+00:26:25,967 --> 00:26:29,642
+Firelight flickers in his eyes, yet I feel there has never been a moment when I see him more clearly than now.
 
 306
-00:26:15,419 --> 00:26:24,081
-Lucien: Uh-oh, looks like I can’t hide anything from you anymore.
+00:26:29,642 --> 00:26:33,126
+Lucien chuckles.
 
 307
-00:26:24,081 --> 00:26:28,620
-MC: Then let me remind Mr. Xu here—you’ve just signed your name. If you deliberately try to conceal anything after this, you’ll have to…
+00:26:33,126 --> 00:26:41,788
+Lucien: Uh-oh, looks like I can’t hide anything from you anymore.
 
 308
-00:26:28,620 --> 00:26:43,067
-Lucien: Request the commence of a ‘confession session’ while simultaneously initiating ‘mandatory hug coverage’, carry out any necessary ‘compensatory acts’ as the situation requires, and reach a ‘reconciliation agreement’ in a timely manner.
+00:26:41,788 --> 00:26:46,327
+MC: Then let me remind Mr. Xu here—you’ve just signed your name. If you deliberately try to conceal anything after this, you’ll have to…
 
 309
-00:26:43,067 --> 00:26:46,359
-Lucien: I remember it all.
+00:26:46,327 --> 00:27:00,774
+Lucien: Request the commence of a ‘confession session’ while simultaneously initiating ‘mandatory hug coverage’, carry out any necessary ‘compensatory acts’ as the situation requires, and reach a ‘reconciliation agreement’ in a timely manner.
 
 310
-00:26:46,359 --> 00:26:50,514
-He says it earnestly, as though it’s only natural. It makes me smile sheepishly.
+00:27:00,774 --> 00:27:04,066
+Lucien: I remember it all.
 
 311
-00:26:50,514 --> 00:26:54,957
-MC: .…Hurry up and make a wish!
+00:27:04,066 --> 00:27:08,222
+He says it earnestly, as though it’s only natural. It makes me smile sheepishly.
 
 312
-00:26:54,957 --> 00:27:00,039
-Lucien raises his hands to enclose mine, and together we reverently cradle the small candle.
+00:27:08,222 --> 00:27:12,664
+MC: .…Hurry up and make a wish!
 
 313
-00:27:00,039 --> 00:27:05,473
-He gazes quietly at the flickering candle flame until it burns more than halfway down.
+00:27:12,664 --> 00:27:17,747
+Lucien raises his hands to enclose mine, and together we reverently cradle the small candle.
 
 314
-00:27:05,473 --> 00:27:09,692
-I feel as though I can hear the wish he is confiding.
+00:27:17,747 --> 00:27:23,180
+He gazes quietly at the flickering candle flame until it burns more than halfway down.
 
 315
-00:27:10,171 --> 00:27:16,532
-At last, he looks at me, his eyes clear and bright, filled with all the world’s tenderness and heart-stirring affection.
+00:27:23,180 --> 00:27:27,399
+I feel as though I can hear the wish he is confiding.
 
 316
-00:27:16,532 --> 00:27:21,103
-Lucien: I’ve made my wish.
+00:27:27,879 --> 00:27:34,239
+At last, he looks at me, his eyes clear and bright, filled with all the world’s tenderness and heart-stirring affection.
 
 317
-00:27:21,103 --> 00:27:26,057
-MC: Mhm! They will all come true.
+00:27:34,239 --> 00:27:38,810
+Lucien: I’ve made my wish.
 
 318
-00:27:27,176 --> 00:27:32,769
-Lucien blows out the candle, and in the darkness, he kisses me.
+00:27:38,810 --> 00:27:43,764
+MC: Mhm! They will all come true.
 
 319
-00:27:32,769 --> 00:27:42,262
-Lucien: I wish to share this brief yet brilliant life with you.
+00:27:44,883 --> 00:27:50,477
+Lucien blows out the candle, and in the darkness, he kisses me.
 
 320
-00:27:46,130 --> 00:27:49,102
+00:27:50,477 --> 00:27:59,970
+Lucien: I wish to share this brief yet brilliant life with you.
+
+321
+00:28:03,837 --> 00:28:06,810
 [Personal musing]
 He opens his eyes when makes his birthday wish, a small habit we’ve known since the first time we celebrated his birthday. Him closing his eyes while making a wish with the kids hints that he wasn’t truly wishing back then… xm writers and their attention to detail ;-;
 
-321
-00:27:49,901 --> 00:27:54,919
+322
+00:28:07,609 --> 00:28:12,627
 Why insurance as gift? Insurance is chosen because in general it exists to guard against risk and uncertainty, and that fear of uncertainty is precisely what he wrestles with throughout this date. He has always seen the world as transient and uncontrollable, but loving her and being with her for so long reintroduces fear that this uncertainty
 
-322
-00:27:54,919 --> 00:28:03,134
+323
+00:28:12,627 --> 00:28:20,841
  might once again leave him alone. By giving him her ‘life insurance policy’, she is giving him a protection, a kind of promise that says ‘I commit my whole life to you. I choose to share this journey with you. No matter how uncertain the world is, you will not face it alone again’. 
 
-323
-00:28:03,134 --> 00:28:09,974
+324
+00:28:20,841 --> 00:28:27,681
 And I also love how both are each others’ party A and party B; insurer and the insured, meaning the commitment is mutual. Each of them is not only the one being protected, but also the one who assumes responsibility for protection,
 
-324
-00:28:09,974 --> 00:28:18,124
+325
+00:28:27,681 --> 00:28:35,832
 pledging their entire life to the other in equal measure. You can say that this mutual life-insurance pact becomes their own intimate, personal, and poetic version of a marriage certificate QwQ
 
-325
-00:28:20,202 --> 00:28:22,312
+326
+00:28:37,909 --> 00:28:40,019
 [Phone call- Lively Moment]
 
-326
-00:28:22,312 --> 00:28:29,439
+327
+00:28:40,019 --> 00:28:47,147
 Lucien: Sorry, looks like I’m running a bit later than the time we agreed upon.
 
-327
-00:28:29,439 --> 00:28:37,814
+328
+00:28:47,147 --> 00:28:55,521
 Lucien: The cake Pete and the others ordered was larger than I’d imagined. We talked for a while, and a lot of time had passed before I even realized it.
 
-328
-00:28:37,814 --> 00:28:42,800
+329
+00:28:55,521 --> 00:29:00,507
 Lucien: I’ve just gotten on the car. I hope your preparations won’t be delayed too much.
 
-329
-00:28:42,800 --> 00:28:47,690
+330
+00:29:00,507 --> 00:29:05,398
 MC: It’s okay, no need to rush.
 
-330
-00:28:47,690 --> 00:28:51,302
+331
+00:29:05,398 --> 00:29:09,009
 MC: Everyone at the Bioscience Research Center wanted to get together to celebrate your birthday and liven things up a bit. Staying a little longer wouldn’t really matter.
 
-331
-00:28:51,302 --> 00:28:57,119
+332
+00:29:09,009 --> 00:29:14,827
 Lucien: I didn’t expect everyone would actually go out of their way to put together a birthday party for me.
 
-332
-00:28:57,119 --> 00:29:00,539
+333
+00:29:14,827 --> 00:29:18,247
 Lucien: The institute never really had a tradition like this in previous years.
 
-333
-00:29:00,539 --> 00:29:03,384
+334
+00:29:18,247 --> 00:29:21,091
 MC: Just because there wasn’t one in previous years doesn’t mean there can’t be one from now on~ Maybe everyone’s been wanting to give you lots of good wishes for a long time already.
 
-334
-00:29:03,384 --> 00:29:06,133
+335
+00:29:21,091 --> 00:29:23,840
 MC: By the way, I seem to have heard from Pete that the students at Loveland University have apparently prepared some gifts for you as well.
 
-335
-00:29:06,133 --> 00:29:14,283
+336
+00:29:23,840 --> 00:29:31,991
 Lucien: Mm. Some former interns asked Pete to pass along their gifts, and a few PhD students prepared some things too.
 
-336
-00:29:14,283 --> 00:29:20,101
+337
+00:29:31,991 --> 00:29:37,808
 Lucien: But after accepting the kind sentiment, I entrusted Pete to return each of the gifts to them on my behalf.
 
-337
-00:29:20,101 --> 00:29:24,447
+338
+00:29:37,808 --> 00:29:42,155
 Lucien: As a teacher, it’s better to maintain proper distance from students.
 
-338
-00:29:24,447 --> 00:29:26,110
+339
+00:29:42,155 --> 00:29:43,817
 MC: You really did think everything through, Professor Xu.
 
-339
-00:29:26,110 --> 00:29:27,644
+340
+00:29:43,817 --> 00:29:45,351
 MC: But… this is really good~
 
-340
-00:29:27,644 --> 00:29:31,415
+341
+00:29:45,351 --> 00:29:49,123
 Lucien: Is it?
 
-341
-00:29:31,415 --> 00:29:34,452
+342
+00:29:49,123 --> 00:29:52,159
 MC: Yeah. Maybe I’m just being very cliché, but I hope every blessing finds its way to you, that everyone sends their good wishes your way.
 
-342
-00:29:34,452 --> 00:29:37,488
+343
+00:29:52,159 --> 00:29:55,196
 MC: It might be a bit too lively, but no matter what happens… I want to join the world in welcoming the day of your arrival.
 
-343
-00:29:37,488 --> 00:29:39,438
+344
+00:29:55,196 --> 00:29:57,146
 MC: I hope every warm moment can belong to you.
 
-344
-00:29:39,438 --> 00:29:41,164
+345
+00:29:57,146 --> 00:29:58,872
 MC: Would this kind of feeling make you feel troubled?
 
-345
-00:29:41,164 --> 00:29:44,169
+346
+00:29:58,872 --> 00:30:01,876
 Lucien: Fool, how could that be.
 
-346
-00:29:44,169 --> 00:29:49,826
+347
+00:30:01,876 --> 00:30:07,533
 Lucien: I’ve spent this day in many different ways, and with many different feelings.
 
-347
-00:29:49,826 --> 00:29:58,104
+348
+00:30:07,533 --> 00:30:15,812
 Lucien: But after having you by my side, it gradually came to hold more… unfamiliar, yet very warm moments.
 
-348
-00:29:58,104 --> 00:30:04,753
+349
+00:30:15,812 --> 00:30:22,460
 Lucien: And so, I’m able to walk back to some distant place, and touch many real feelings.
 
-349
-00:30:04,753 --> 00:30:08,556
+350
+00:30:22,460 --> 00:30:26,264
 Lucien: What you said is right. This is good.
 
-350
-00:30:08,556 --> 00:30:10,826
+351
+00:30:26,264 --> 00:30:28,533
 MC: Lucien, come home soon. I really wish I could hug you right now.
 
-351
-00:30:10,826 --> 00:30:16,451
+352
+00:30:28,533 --> 00:30:34,159
 Lucien: I think… this is probably my greatest wish at this moment too.
 
-352
-00:30:21,341 --> 00:30:24,314
+353
+00:30:39,049 --> 00:30:42,021
 The wind gently brushes across the lawn, carrying with it sunshine and the fragrance of flowers. In the courtyard, only the two of us remain.
 
-353
-00:30:24,314 --> 00:30:27,191
-The whole world is held in the embrace of the afternoon light, bright and tranquil.
-
 354
-00:30:27,191 --> 00:30:31,378
+00:30:42,021 --> 00:30:44,898
 The whole world is held in the embrace of the afternoon light, bright and tranquil.
 
 355
-00:30:31,378 --> 00:30:34,542
-MC: Lucien, what are you thinking about right now?
+00:30:44,898 --> 00:30:49,085
+The whole world is held in the embrace of the afternoon light, bright and tranquil.
 
 356
-00:30:35,022 --> 00:30:39,305
-He blinks, his eyelashes brushing lightly against my palm.
+00:30:49,085 --> 00:30:52,250
+MC: Lucien, what are you thinking about right now?
 
 357
-00:30:39,305 --> 00:30:47,072
-Lucien: I’m thinking… whether I might finally get to see that gift I’ve been looking forward to for so long.
+00:30:52,729 --> 00:30:57,012
+He blinks, his eyelashes brushing lightly against my palm.
 
 358
-00:30:47,072 --> 00:30:48,830
-MC: ….?
+00:30:57,012 --> 00:31:04,779
+Lucien: I’m thinking… whether I might finally get to see that gift I’ve been looking forward to for so long.
 
 359
-00:30:48,830 --> 00:30:51,387
-Perhaps sensing my momentary daze, he chuckles softly.
+00:31:04,779 --> 00:31:06,537
+MC: ….?
 
 360
-00:30:51,387 --> 00:30:55,574
-Then, he holds back my hand and gently pulls me into his embrace.
+00:31:06,537 --> 00:31:09,094
+Perhaps sensing my momentary daze, he chuckles softly.
 
 361
-00:30:55,574 --> 00:31:03,564
-Lucien: Sorry, MC. Actually, I was wondering whether I should pretend I didn’t know anything just now.
+00:31:09,094 --> 00:31:13,281
+Then, he holds back my hand and gently pulls me into his embrace.
 
 362
-00:31:03,564 --> 00:31:10,277
-Lucien: But perhaps I was looking forward to it too much. I couldn’t hold back.
+00:31:13,281 --> 00:31:21,272
+Lucien: Sorry, MC. Actually, I was wondering whether I should pretend I didn’t know anything just now.
 
 363
-00:31:10,277 --> 00:31:13,825
-Seeing the edges of his eyes turn up in self-satisfaction, with zero trace of apology, I can’t help but laugh.
+00:31:21,272 --> 00:31:27,984
+Lucien: But perhaps I was looking forward to it too much. I couldn’t hold back.
 
 364
-00:31:13,825 --> 00:31:17,117
-MC: Pfft, a certain birthday boy is clearly a year older now, so how come he’s becoming more and more like a little kid?
+00:31:27,984 --> 00:31:31,532
+Seeing the edges of his eyes turn up in self-satisfaction, with zero trace of apology, I can’t help but laugh.
 
 365
-00:31:17,117 --> 00:31:23,637
-Lucien: I can be even more like a little kid.
+00:31:31,532 --> 00:31:34,824
+MC: Pfft, a certain birthday boy is clearly a year older now, so how come he’s becoming more and more like a little kid?
 
 366
-00:31:23,637 --> 00:31:28,112
-Smiling, he looks at the handmade book in my hands and unabashedly holds out his palm.
+00:31:34,824 --> 00:31:41,345
+Lucien: I can be even more like a little kid.
 
 367
-00:31:28,112 --> 00:31:43,997
-Lucien: If I could receive your gift right now, I think I’d be very happy.
+00:31:41,345 --> 00:31:45,819
+Smiling, he looks at the handmade book in my hands and unabashedly holds out his palm.
 
 368
-00:31:45,148 --> 00:31:48,121
-[Blow out the candle]
+00:31:45,819 --> 00:32:01,705
+Lucien: If I could receive your gift right now, I think I’d be very happy.
 
 369
-00:32:00,107 --> 00:32:07,906
-“The candle flame lasts only a moment, but the bright eyes of a certain little lady will remain etched in my memory forever.”
+00:32:02,856 --> 00:32:05,828
+[Blow out the candle]
 
 370
-00:32:27,020 --> 00:32:29,992
-[Sing the birthday song]
+00:32:17,814 --> 00:32:25,613
+“The candle flame lasts only a moment, but the bright eyes of a certain little lady will remain etched in my memory forever.”
 
 371
-00:33:18,096 --> 00:33:24,777
-Lucien: Thank you for always bringing all the tenderness in the world before me.
+00:32:44,727 --> 00:32:47,700
+[Sing the birthday song]
 
 372
-00:33:27,493 --> 00:33:28,900
-[Gift the pop-up book]
+00:33:35,804 --> 00:33:42,484
+Lucien: Thank you for always bringing all the tenderness in the world before me.
 
 373
-00:33:32,575 --> 00:33:39,160
-Lucien: Such a cute little rabbit and little fox look like something MC made with her own hands.
+00:33:45,201 --> 00:33:46,607
+[Gift the pop-up book]
 
 374
-00:33:39,160 --> 00:33:43,507
-MC: The birthday boy has a keen eye~ So, any thoughts?
+00:33:50,283 --> 00:33:56,867
+Lucien: Such a cute little rabbit and little fox look like something MC made with her own hands.
 
 375
-00:33:43,507 --> 00:33:49,803
-Lucien: Although I haven’t opened it yet, I seem to be feeling so happy already.
+00:33:56,867 --> 00:34:01,214
+MC: The birthday boy has a keen eye~ So, any thoughts?
 
 376
-00:33:49,803 --> 00:33:56,388
-Lucien: The little fox’s warm scarf looks like something the little rabbit picked out with care.
+00:34:01,214 --> 00:34:07,511
+Lucien: Although I haven’t opened it yet, I seem to be feeling so happy already.
 
 377
-00:33:56,388 --> 00:34:07,031
-Lucien: Moreover, the little rabbit’s soft cheeks press close against him. Looks like it’s going to spend another incredibly warm winter.
+00:34:07,511 --> 00:34:14,095
+Lucien: The little fox’s warm scarf looks like something the little rabbit picked out with care.
 
 378
-00:34:07,031 --> 00:34:08,470
-MC: Not just winter~
+00:34:14,095 --> 00:34:24,739
+Lucien: Moreover, the little rabbit’s soft cheeks press close against him. Looks like it’s going to spend another incredibly warm winter.
 
 379
-00:34:08,470 --> 00:34:12,753
-MC: Whether it is the little fox in the fairy tale, or my little fox, they will both live a warm life.
+00:34:24,739 --> 00:34:26,177
+MC: Not just winter~
 
 380
-00:34:12,753 --> 00:34:18,506
-Lucien: Mm, I believe that too.
+00:34:26,177 --> 00:34:30,460
+MC: Whether it is the little fox in the fairy tale, or my little fox, they will both live a warm life.
 
 381
-00:34:18,506 --> 00:34:25,218
-Lucien: After all, the little rabbit will always stay by the little fox’s side.
+00:34:30,460 --> 00:34:36,214
+Lucien: Mm, I believe that too.
 
 382
-00:34:27,839 --> 00:34:32,602
-MC: Hehe, the first page is a birthday wish for Professor Lucien~
+00:34:36,214 --> 00:34:42,926
+Lucien: After all, the little rabbit will always stay by the little fox’s side.
 
 383
-00:34:32,602 --> 00:34:43,054
-Lucien: Little butterfly, dream catcher, Chinese bellflowers. It feels like being in a beautiful dream.
+00:34:45,547 --> 00:34:50,309
+MC: Hehe, the first page is a birthday wish for Professor Lucien~
 
 384
-00:34:43,054 --> 00:34:46,697
-MC: That’s right~ I hope you’ll have even more beautiful dreams in the coming year.
+00:34:50,309 --> 00:35:00,761
+Lucien: Little butterfly, dream catcher, Chinese bellflowers. It feels like being in a beautiful dream.
 
 385
-00:34:46,697 --> 00:34:50,469
-MC: And as for me, I will be by your side every time you wake from a dream.
+00:35:00,761 --> 00:35:04,405
+MC: That’s right~ I hope you’ll have even more beautiful dreams in the coming year.
 
 386
-00:34:50,469 --> 00:34:58,588
-Lucien: With a wish and promise like that from MC, it seems I have no choice but to obediently go to sleep.
+00:35:04,405 --> 00:35:08,176
+MC: And as for me, I will be by your side every time you wake from a dream.
 
 387
-00:34:58,588 --> 00:35:02,455
-MC: That suits me just perfectly~ Look, there is another mechanism here.
+00:35:08,176 --> 00:35:16,295
+Lucien: With a wish and promise like that from MC, it seems I have no choice but to obediently go to sleep.
 
 388
-00:35:02,455 --> 00:35:07,569
-Lucien: It turns out this little butterfly is actually a candle.
+00:35:16,295 --> 00:35:20,163
+MC: That suits me just perfectly~ Look, there is another mechanism here.
 
 389
-00:35:07,569 --> 00:35:11,597
-MC: Mm~ And it can be lit at any time. It will bless all your wishes and make them come true.
+00:35:20,163 --> 00:35:25,277
+Lucien: It turns out this little butterfly is actually a candle.
 
 390
-00:35:11,597 --> 00:35:20,067
-Lucien: Rather than trouble it with my wishes, I think I’d rather watch it flutter freely through this secret garden.
+00:35:25,277 --> 00:35:29,304
+MC: Mm~ And it can be lit at any time. It will bless all your wishes and make them come true.
 
 391
-00:35:20,067 --> 00:35:27,418
-Lucien: After all, I’m much closer to another little butterfly.
+00:35:29,304 --> 00:35:37,774
+Lucien: Rather than trouble it with my wishes, I think I’d rather watch it flutter freely through this secret garden.
 
 392
-00:35:28,473 --> 00:35:31,445
-Lucien: Is this Loveland University’s lecture hall?
+00:35:37,774 --> 00:35:45,126
+Lucien: After all, I’m much closer to another little butterfly.
 
 393
-00:35:33,875 --> 00:35:37,263
-MC: I knew you’d recognize it.
+00:35:46,180 --> 00:35:49,153
+Lucien: Is this Loveland University’s lecture hall?
 
 394
-00:35:37,263 --> 00:35:41,386
-MC: I wanted to recreate a glimpse of Professor Xu’s everyday life on this page.
+00:35:51,582 --> 00:35:54,970
+MC: I knew you’d recognize it.
 
 395
-00:35:41,386 --> 00:35:44,582
-MC: Standing at the lectern, teaching and nurturing your students, imparting knowledge and wisdom… You always shine so brilliantly.
+00:35:54,970 --> 00:35:59,093
+MC: I wanted to recreate a glimpse of Professor Xu’s everyday life on this page.
 
 396
-00:35:44,582 --> 00:35:51,774
-Lucien: In that case, I’d like to invite little classmate MC to attend one of my classes next weekend.
+00:35:59,093 --> 00:36:02,290
+MC: Standing at the lectern, teaching and nurturing your students, imparting knowledge and wisdom… You always shine so brilliantly.
 
 397
-00:35:51,774 --> 00:35:54,395
-MC: Hmm? Don’t you usually have weekends off?
+00:36:02,290 --> 00:36:09,481
+Lucien: In that case, I’d like to invite little classmate MC to attend one of my classes next weekend.
 
 398
-00:35:54,395 --> 00:36:00,883
-Lucien: Originally, yes, but I’ve just made some changes to my schedule.
+00:36:09,481 --> 00:36:12,102
+MC: Hmm? Don’t you usually have weekends off?
 
 399
-00:36:01,682 --> 00:36:07,979
-Lucien: There will only be two of us in class that day.
+00:36:12,102 --> 00:36:18,591
+Lucien: Originally, yes, but I’ve just made some changes to my schedule.
 
 400
-00:36:07,979 --> 00:36:13,828
-Lucien: As for the class content, how about we watch a romantic movie together?
+00:36:19,390 --> 00:36:25,687
+Lucien: There will only be two of us in class that day.
 
 401
-00:36:13,828 --> 00:36:21,691
-Lucien: And when the movie ends, that line on the whiteboard…. would you be willing to say it to me yourself?
+00:36:25,687 --> 00:36:31,536
+Lucien: As for the class content, how about we watch a romantic movie together?
 
 402
-00:36:26,102 --> 00:36:33,901
-Lucien: In a parallel world, the little rabbit and the little fox are also in a beautiful garden.
+00:36:31,536 --> 00:36:39,399
+Lucien: And when the movie ends, that line on the whiteboard…. would you be willing to say it to me yourself?
 
 403
-00:36:33,901 --> 00:36:42,307
-Lucien: But it seems I won’t have the chance today to paint a picture for my beloved little rabbit as the fox does.
+00:36:43,809 --> 00:36:51,608
+Lucien: In a parallel world, the little rabbit and the little fox are also in a beautiful garden.
 
 404
-00:36:42,307 --> 00:36:46,239
-MC: But my mood seems even more jubilant than this little rabbit’s~
+00:36:51,608 --> 00:37:00,015
+Lucien: But it seems I won’t have the chance today to paint a picture for my beloved little rabbit as the fox does.
 
 405
-00:36:46,239 --> 00:36:49,147
-Lucien: I feel the same way.
+00:37:00,015 --> 00:37:03,946
+MC: But my mood seems even more jubilant than this little rabbit’s~
 
 406
-00:36:49,147 --> 00:36:59,887
-Lucien: Perhaps saying this sounds a little boastful, but in every minute and every second of today, or perhaps not just today.
+00:37:03,946 --> 00:37:06,855
+Lucien: I feel the same way.
 
 407
-00:36:59,887 --> 00:37:07,366
-Lucien: It seems that whenever MC thinks of me, or whenever her gaze falls upon me——
+00:37:06,855 --> 00:37:17,594
+Lucien: Perhaps saying this sounds a little boastful, but in every minute and every second of today, or perhaps not just today.
 
 408
-00:37:07,366 --> 00:37:16,060
-Lucien: I feel that there is no one in this world happier or more fulfilled than I am.
+00:37:17,594 --> 00:37:25,074
+Lucien: It seems that whenever MC thinks of me, or whenever her gaze falls upon me——
 
 409
-00:37:18,777 --> 00:37:24,530
-Lucien: These bubbles look very lifelike.
+00:37:25,074 --> 00:37:33,768
+Lucien: I feel that there is no one in this world happier or more fulfilled than I am.
 
 410
-00:37:24,530 --> 00:37:28,206
-MC: Hehe, I’ve been wanting to show off this part to you for ages~
+00:37:36,484 --> 00:37:42,238
+Lucien: These bubbles look very lifelike.
 
 411
-00:37:28,206 --> 00:37:32,617
-MC: Making these bubbles took the most time out of the entire handmade book. But looking at how it turned out, it was well worth it~
+00:37:42,238 --> 00:37:45,913
+MC: Hehe, I’ve been wanting to show off this part to you for ages~
 
 412
-00:37:32,617 --> 00:37:38,977
-Lucien: Mm, they’re beautiful and very dreamlike.
+00:37:45,913 --> 00:37:50,324
+MC: Making these bubbles took the most time out of the entire handmade book. But looking at how it turned out, it was well worth it~
 
 413
-00:37:38,977 --> 00:37:46,361
-Lucien: And they seem to hold some of MC’s lovely wishes too.
+00:37:50,324 --> 00:37:56,685
+Lucien: Mm, they’re beautiful and very dreamlike.
 
 414
-00:37:46,361 --> 00:37:50,196
-MC: As expected, nothing gets past Professor Xu.
+00:37:56,685 --> 00:38:04,068
+Lucien: And they seem to hold some of MC’s lovely wishes too.
 
 415
-00:37:50,196 --> 00:37:54,607
-MC: These bubbles will never disappear, nor they will ever burst.
+00:38:04,068 --> 00:38:07,904
+MC: As expected, nothing gets past Professor Xu.
 
 416
-00:37:54,607 --> 00:37:58,890
-MC: As long as you wish, you can always grasp these beautiful fleeting moments.
+00:38:07,904 --> 00:38:12,315
+MC: These bubbles will never disappear, nor they will ever burst.
 
 417
-00:37:58,890 --> 00:38:05,986
-Lucien: I suddenly feel that their existence is just like MC.
+00:38:12,315 --> 00:38:16,598
+MC: As long as you wish, you can always grasp these beautiful fleeting moments.
 
 418
-00:38:05,986 --> 00:38:16,150
-Lucien: Make me feel that my life truly can hold on to these miraculous fleeting moments forever.
+00:38:16,598 --> 00:38:23,694
+Lucien: I suddenly feel that their existence is just like MC.
 
 419
-00:38:19,315 --> 00:38:19,762
-[Birthday celebration ends]
+00:38:23,694 --> 00:38:33,858
+Lucien: Make me feel that my life truly can hold on to these miraculous fleeting moments forever.
 
 420
-00:38:19,762 --> 00:38:24,397
-Lucien closes the handmade book, yet his fingertips still linger cherishingly on its corner.
+00:38:37,022 --> 00:38:37,470
+[Birthday celebration ends]
 
 421
-00:38:24,397 --> 00:38:29,990
-Lucien: MC, I really love this gift. Thank you.
+00:38:37,470 --> 00:38:42,104
+Lucien closes the handmade book, yet his fingertips still linger cherishingly on its corner.
 
 422
-00:38:29,990 --> 00:38:34,369
-MC: The birthday boy seems to have said “thank you” quite a few times today already~
+00:38:42,104 --> 00:38:47,698
+Lucien: MC, I really love this gift. Thank you.
 
 423
-00:38:34,369 --> 00:38:43,606
-Lucien: Perhaps when a person is too happy, they really do become a bit clumsy.
+00:38:47,698 --> 00:38:52,077
+MC: The birthday boy seems to have said “thank you” quite a few times today already~
 
 424
-00:38:43,606 --> 00:38:52,364
-Lucien: There are so many things I want to say, but my brain… doesn’t quite seem to be keeping up.
+00:38:52,077 --> 00:39:01,314
+Lucien: Perhaps when a person is too happy, they really do become a bit clumsy.
 
 425
-00:38:52,364 --> 00:38:57,414
-He shows a somewhat helpless expression, yet the corners of his lips unconsciously curl up into a faint smile.
+00:39:01,314 --> 00:39:10,072
+Lucien: There are so many things I want to say, but my brain… doesn’t quite seem to be keeping up.
 
 426
-00:38:57,414 --> 00:39:01,442
-Finding him adorable, I can’t help but tilt my head and give him a kiss.
+00:39:10,072 --> 00:39:15,122
+He shows a somewhat helpless expression, yet the corners of his lips unconsciously curl up into a faint smile.
 
 427
-00:39:01,442 --> 00:39:06,140
-MC: Then don’t say it. I know it all anyway.
+00:39:15,122 --> 00:39:19,149
+Finding him adorable, I can’t help but tilt my head and give him a kiss.
 
 428
-00:39:06,140 --> 00:39:10,871
-MC: Just like I know Professor Xu will be happy forever.
+00:39:19,149 --> 00:39:23,848
+MC: Then don’t say it. I know it all anyway.
 
 429
-00:39:10,871 --> 00:39:14,387
-The next second, he gently bends down and draws close to me.
+00:39:23,848 --> 00:39:28,578
+MC: Just like I know Professor Xu will be happy forever.
 
 430
-00:39:14,387 --> 00:39:18,542
-Before that kiss lands, I hear him whispers a wish, like murmurs spoken in a dream.
+00:39:28,578 --> 00:39:32,094
+The next second, he gently bends down and draws close to me.
 
 431
-00:39:18,542 --> 00:39:31,199
-Lucien: May you forever choose to anchor in my heart, hear all the words I cannot speak and all that I gladly bear.
+00:39:32,094 --> 00:39:36,249
+Before that kiss lands, I hear him whispers a wish, like murmurs spoken in a dream.
 
 432
-00:39:31,391 --> 00:39:46,286
-.
+00:39:36,249 --> 00:39:48,907
+Lucien: May you forever choose to anchor in my heart, hear all the words I cannot speak and all that I gladly bear.
+
+433
+00:39:49,098 --> 00:39:59,007
+For the other birthday events and R&S I’ve translated them on my website since they don’t have voiceovers. PLEASE, I’m begging you to at least give the birthday R&S a read because the writing is genuinely SO beautiful. You’re missing out if you skip it!! Link in youtube comments!
